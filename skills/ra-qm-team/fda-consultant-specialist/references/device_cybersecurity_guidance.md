@@ -262,8 +262,8 @@ Uncontrolled Risk = Exploitability × Impact × Exposure
 
 ### 1. System Description
 
-Device Name: ****\*\*****\_****\*\*****
-Device Type: ****\*\*****\_****\*\*****
+Device Name: \***\*\*\*\*\***\_\***\*\*\*\*\***
+Device Type: \***\*\*\*\*\***\_\***\*\*\*\*\***
 Intended Use: **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 ### 2. Architecture Diagram
