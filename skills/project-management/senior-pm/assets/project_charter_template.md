@@ -275,12 +275,12 @@
 
 ### Charter Approval
 
-| Role              | Name   | Signature          | Date   |
-| ----------------- | ------ | ------------------ | ------ |
-| Executive Sponsor | [Name] | ********\_******** | [Date] |
-| Business Owner    | [Name] | ********\_******** | [Date] |
-| Project Manager   | [Name] | ********\_******** | [Date] |
-| Technical Owner   | [Name] | ********\_******** | [Date] |
+| Role              | Name   | Signature                  | Date   |
+| ----------------- | ------ | -------------------------- | ------ |
+| Executive Sponsor | [Name] | **\*\*\*\***\_**\*\*\*\*** | [Date] |
+| Business Owner    | [Name] | **\*\*\*\***\_**\*\*\*\*** | [Date] |
+| Project Manager   | [Name] | **\*\*\*\***\_**\*\*\*\*** | [Date] |
+| Technical Owner   | [Name] | **\*\*\*\***\_**\*\*\*\*** | [Date] |
 
 ### Project Authorization
 

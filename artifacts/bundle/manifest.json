@@ -981,7 +981,7 @@
     },
     {
       "name": "telegram-setup",
-      "description": "Set up Telegram for ehAye Dojo — two-way voice, text, and file messaging between Dojo and your phone via private or public Telegram groups.",
+      "description": "Help a user set up Telegram for ehAye Dojo. Default to Personal private bots (recommended). Group setup is advanced for teams/observers/demos.",
       "creator": "Ehaye",
       "namespace": "ehaye",
       "license": "MIT",
