@@ -181,7 +181,7 @@ Choose two dimensions that:
 
 For each major competitor:
 
-**Company:** ******\_\_\_******
+**Company:** **\*\***\_\_\_**\*\***
 
 | Dimension                | What They Claim | What Customers Actually Experience | Gap |
 | ------------------------ | --------------- | ---------------------------------- | --- |
