@@ -39,7 +39,7 @@ If you ever see PIN/wake-word in screenshots or older docs, treat them as out-of
 After setup, each lane the user configures will have:
 
 - one Telegram bot they created via BotFather
-- the bot **paired** to their personal Telegram account via a one-time `/pair <code>` message
+- the bot **paired** to their personal Telegram account via a one-time `/ehaye:pair <code>` message
 - Dojo accepting inbound only from that paired private chat, and sending outbound to that same paired chat
 
 No groups. No admin rights. No privacy-mode toggles. No chat ID hunting. No `getUpdates`.
@@ -69,9 +69,9 @@ For **each lane** the user wants (start with Primary):
    - Click `Connect`.
 
 6. **Pair the bot**
-   - Dojo shows a pairing dialog with a command like `/pair 482913`.
+   - Dojo shows a pairing dialog with a command like `/ehaye:pair 482913`.
    - The dialog has `Open bot in Telegram` and a copy icon.
-   - In Telegram, open the new bot and send the exact `/pair <code>`.
+   - In Telegram, open the new bot and send the exact `/ehaye:pair <code>`.
    - Return to Dojo and click `Check pairing`.
    - On success Dojo saves the private chat and shows `Connected to <Name> (@username)` in green.
 
@@ -106,7 +106,7 @@ Once a lane is paired, these commands work in that bot chat:
 
 - Dojo verifies the bot token via Telegram `getMe`.
 - Dojo generates a 6-digit pairing code.
-- Dojo polls bot updates and looks for a private message from a real Telegram user whose text is exactly `/pair <code>`.
+- Dojo polls bot updates and looks for a private message from a real Telegram user whose text is exactly `/ehaye:pair <code>`.
 - It stores `chatId`, `userId`, bot username, and pairedAt.
 - Inbound messages are then accepted only when: token matches, chat type is private, chat ID matches, and sender user ID matches.
 - Outbound goes to the same paired chat.

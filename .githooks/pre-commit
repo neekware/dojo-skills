@@ -40,6 +40,13 @@ function findSkills(dir) {
   return results;
 }
 
+execSync('pnpm format', { cwd: ROOT, stdio: 'inherit' });
+execSync('git add skills catalog .upstream-markers package.json pnpm-lock.yaml .githooks', {
+  cwd: ROOT,
+  stdio: 'inherit',
+});
+ok('markdown formatted and staged');
+
 if (fs.existsSync(SKILLS_DIR)) {
   const skills = findSkills(SKILLS_DIR);
   for (const skill of skills) {
@@ -72,4 +79,5 @@ if (errors > 0) {
 }
 
 execSync('pnpm bundle:export', { cwd: ROOT, stdio: 'inherit' });
-ok('bundled markdown export refreshed');
+execSync('git add artifacts/bundle', { cwd: ROOT, stdio: 'inherit' });
+ok('bundled markdown export refreshed and staged');
