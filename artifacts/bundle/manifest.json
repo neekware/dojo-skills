@@ -969,6 +969,17 @@
       "bundledPath": "skills/ehaye/canada-trademark/SKILL.md"
     },
     {
+      "name": "multimedia",
+      "description": "ehAye Multimedia — workflow for media preview, local transcription, remuxing/conversion, Spotter visual search, thumbnails, and FFmpeg-backed audio/video/image processing.",
+      "creator": "Ehaye",
+      "namespace": "ehaye",
+      "license": "MIT",
+      "sourceRepo": "neekware/ehaye-skills",
+      "sourceBucket": "ehaye",
+      "originalPath": "ehaye/multimedia",
+      "bundledPath": "skills/ehaye/multimedia/SKILL.md"
+    },
+    {
       "name": "peer-review",
       "description": "Code review skill — auto-scopes from git changes, reads DOJO.md for project conventions, and",
       "creator": "Ehaye",
