@@ -970,7 +970,7 @@
     },
     {
       "name": "multimedia",
-      "description": "ehAye Multimedia — workflow for media preview, local transcription, remuxing/conversion, Spotter visual search, thumbnails, and FFmpeg-backed audio/video/image processing.",
+      "description": "ehAye Multimedia — workflow for media inspection (ffprobe), conversion/remux (ffmpeg), preview, local transcription, Spotter visual search, thumbnails, and frame extraction.",
       "creator": "Ehaye",
       "namespace": "ehaye",
       "license": "MIT",
