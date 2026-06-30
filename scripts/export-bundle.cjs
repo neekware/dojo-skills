@@ -161,6 +161,43 @@ function injectAttribution(body, header) {
   return normalizedBody + '\n' + header;
 }
 
+function copySkillResources(srcDir, destDir) {
+  // Copy every file/directory inside a skill except SKILL.md (already written),
+  // node_modules, and dotfiles. Preserves rules/, reference/, scripts/,
+  // templates/, assets/, and any other bundled resources.
+  const SKIP = new Set(['node_modules', 'SKILL.md', '.git']);
+  for (const entry of fs.readdirSync(srcDir, { withFileTypes: true })) {
+    if (SKIP.has(entry.name) || entry.name.startsWith('.')) continue;
+
+    const srcPath = path.join(srcDir, entry.name);
+    const destPath = path.join(destDir, entry.name);
+
+    if (entry.isDirectory()) {
+      copyDirRecursive(srcPath, destPath);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
+function copyDirRecursive(srcDir, destDir) {
+  mkdirp(destDir);
+  for (const entry of fs.readdirSync(srcDir, { withFileTypes: true })) {
+    if (entry.name.startsWith('.') || entry.name === 'node_modules') continue;
+
+    const srcPath = path.join(srcDir, entry.name);
+    const destPath = path.join(destDir, entry.name);
+
+    if (entry.isDirectory()) {
+      copyDirRecursive(srcPath, destPath);
+    } else {
+      const stat = fs.lstatSync(srcPath);
+      if (stat.isSymbolicLink()) continue;
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
 function main() {
   rmrf(OUTPUT_DIR);
   mkdirp(OUTPUT_SKILLS_DIR);
@@ -197,9 +234,13 @@ function main() {
 
       fs.writeFileSync(path.join(targetDir, 'SKILL.md'), injectAttribution(body, header));
 
+      // Copy the full skill directory (rules/, reference/, scripts/, templates/,
+      // assets/, LICENSE, etc.) so skills that reference bundled files resolve
+      // correctly at runtime. SKILL.md was already written above; skip it here.
       for (const licenseFile of licenseFilesFor(skillDir)) {
         fs.copyFileSync(path.join(skillDir, licenseFile), path.join(targetDir, licenseFile));
       }
+      copySkillResources(skillDir, targetDir);
 
       manifest.push({
         name,
