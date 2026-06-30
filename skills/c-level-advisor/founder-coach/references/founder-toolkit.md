@@ -97,8 +97,8 @@ After one week, categorize activities:
 
 **Red activities to eliminate or delegate (target: < 15% of week):**
 
-- Activity: **\*\*\*\***\_\_**\*\*\*\*** → Delegate to: **\*\*\*\***\_\_**\*\*\*\***
-- Activity: **\*\*\*\***\_\_**\*\*\*\*** → Eliminate via: **\*\*\*\***\_\_**\*\*\*\***
+- Activity: ********\_\_******** → Delegate to: ********\_\_********
+- Activity: ********\_\_******** → Eliminate via: ********\_\_********
 
 **Your personal energy peak hours:**
 I do my best thinking: **\_\_\_** to **\_\_\_**

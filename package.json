@@ -1,6 +1,6 @@
 {
   "name": "ehaye-skills",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": true,
   "description": "Curated, validated skill repository for ehAye Dojo",
   "scripts": {

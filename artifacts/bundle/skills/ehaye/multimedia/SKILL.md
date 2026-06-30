@@ -1,48 +1,65 @@
 # ehAye Multimedia
 
-Use this skill for **video, audio, images, media conversion, previews, transcription, thumbnails, frame extraction, Spotter visual search, or FFmpeg-backed processing**.
+Use this skill for **video, audio, images, media inspection, conversion, previews, transcription, thumbnails, frame extraction, Spotter visual search, or FFmpeg/FFprobe-backed processing**.
 
-Core rule: use ehAye native media tools first. Do not reach first for shell `ffmpeg`, `ffprobe`, Python, or `mediainfo` when a native media tool can do the job. Native tools use bundled engines, show proper tool UI, respect cancellation/timeouts, integrate with Preview/Spotter, and avoid cross-platform shell quoting problems.
+Core rule: use ehAye native media tools first. Do not reach first for shell `ffmpeg`, `ffprobe`, Python, or `mediainfo` when a native media tool can do the job. Native tools use the bundled engines, show proper tool UI, respect cancellation/timeouts, integrate with Preview/Spotter, honor path and permission guards, and avoid cross-platform shell quoting problems.
 
-## Tools
+## Pick the right tool
 
-### `media_preflight`
+- **`media_probe` inspects (read-only).** `type=engine` reads metadata, streams, codecs, frames, packets, chapters, and bitrate with bundled **ffprobe**. `type=preflight` estimates local transcription cost.
+- **`media_process` transforms.** `type=engine` runs bundled **ffmpeg** to convert, remux, extract, or thumbnail. `type=transcribe` runs local speech-to-text.
+- **`preview`** opens the in-app lightbox. **`media_spotter`** does LLM-powered visual search in video.
 
-Use before local transcription.
+Rule of thumb: if you only need to _look at_ a file, use `media_probe`. If you need to _change_ a file, use `media_process`.
 
-Typical call:
+## Bundled engines and permissions
+
+- `ffmpeg` and `ffprobe` are bundled **together** as one versioned tool pair, so they never drift. You never need a system/Homebrew install.
+- All media tools enforce the same path and permission guards as `read`/`write`: kernel/device paths are always blocked, network/external paths follow the access tier, and out-of-scope paths trigger a permission prompt.
+- In **Normal** mode, a media operation prompts before it runs (allow once or allow all). In **YOLO** and higher it proceeds without a prompt. Remote inputs (`http://`, `rtsp://`, `pipe:`, `lavfi`, …) are passed straight to the engine and are not treated as local files.
+
+## `media_probe` — full-power ffprobe + transcription preflight
 
 ```text
-MediaPreflight(type=transcribe, path=<audio-or-video>)
+MediaProbe(type=engine, path=<audio-or-video>)
+MediaProbe(type=preflight, path=<audio-or-video>)
 ```
 
-It probes duration and estimates transcription speed. Use its recommended `within` value when calling transcription.
+`type=engine` is **full-power ffprobe** — it behaves exactly as if you ran `ffprobe` yourself. With no `args` it returns a JSON dump of streams and format for `path`. Pass **any** ffprobe arguments via `args` (no whitelist, no forced flags) to read frames, packets, chapters, side data, bitrate, or anything else:
 
-### `media_process`
+```text
+MediaProbe(type=engine, path=<file>)
+MediaProbe(type=engine, path=<file>, args=["-show_format", "-show_streams", "-print_format", "json"])
+MediaProbe(type=engine, path=<file>, args=["-show_frames", "-select_streams", "v:0", "-read_intervals", "%+#5"])
+MediaProbe(type=engine, path=<file>, args=["-show_chapters", "-print_format", "json"])
+MediaProbe(type=engine, path=<file>, args=["-show_entries", "format=duration:stream=codec_name,width,height", "-of", "csv"])
+MediaProbe(type=engine, path=<file>, args=["-count_frames", "-select_streams", "v:0", "-show_entries", "stream=nb_read_frames", "-of", "default=nokey=1:noprint_wrappers=1"])
+```
 
-Use for FFmpeg-engine work and local transcription.
+Notes:
+
+- `path` is appended automatically unless it already appears in `args`, so you may supply the input either way.
+- When you pass custom `args`, output is returned untouched (use `-print_format json|csv|xml` / `-of` to shape it). With no `args`, output is pretty-printed JSON.
+- Use `within=<ms>` to set an ffprobe timeout for slow/large inputs (default 30s).
+
+`type=preflight` requires a local file. It probes duration and estimates transcription speed; use its recommended `within` value when calling transcription.
+
+## `media_process` — ffmpeg engine + local transcription
 
 Common parameters:
 
-- `type=engine` — raw media-engine operation.
+- `type=engine` — raw ffmpeg operation; `args=[...]` are FFmpeg-style arguments.
 - `type=transcribe` — local English-mode speech-to-text.
-- `args=[...]` — FFmpeg-style args for `type=engine`.
 - `path=<file>` — media path for transcription.
 - `format=markdown|summary` — transcription output shape.
 - `outputPath=<path>` — optional transcription output path.
 - `within=<ms>` — time budget; use the preflight recommendation for transcription.
 
-Probe media:
+For metadata, prefer `MediaProbe(type=engine)` (bundled ffprobe). Use `MediaProcess(type=engine)` to actually transform media — convert, remux, extract, thumbnail.
 
-```text
-MediaProcess(type=engine, args=["-i", "<path>"])
-```
+## `preview` — in-app lightbox
 
-FFmpeg may exit with "At least one output file must be specified" after printing metadata. Treat that as a successful probe: duration, streams, codecs, subtitles, and container info are in the output.
-
-### `preview`
-
-Use to open the in-app Preview lightbox for images, video, audio, markdown, text, and files.
+Use to open the Preview lightbox for images, video, audio, markdown, text, and files.
 
 Common parameters:
 
@@ -90,6 +107,8 @@ Only transcode when stream-copy fails because codecs are not MP4-compatible:
 MediaProcess(type=engine, args=["-i", "<input>", "-c:v", "libx264", "-c:a", "aac", "-movflags", "+faststart", "<output>.mp4"])
 ```
 
+Codec note: the bundled builds are LGPL-safe. Do not assume GPL/nonfree encoders like `libx264`, `libx265`, or `libfdk-aac` are always present; if a transcode fails because an encoder is missing, prefer stream-copy remux or a widely available encoder.
+
 Converted-copy policy:
 
 1. Write the converted copy next to the original file.
@@ -111,7 +130,7 @@ Example:
 
 Workflow:
 
-1. Call `MediaPreflight(type=transcribe, path=<file>)`.
+1. Call `MediaProbe(type=preflight, path=<file>)`.
 2. Tell the user transcription will be treated as English (`lang=en`).
 3. Call `MediaProcess(type=transcribe, path=<file>, format=markdown, within=<recommended>)`.
 4. Report the markdown timeline path.
