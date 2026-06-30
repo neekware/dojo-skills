@@ -4,6 +4,10 @@
     "description": "ehAye Curated Skills (patent-prep, trademark-prep, and more)"
   },
   {
+    "repo": "agentskills/agentskills",
+    "description": "Agent Skills — official open standard, specification, and reference library"
+  },
+  {
     "repo": "anthropics/skills",
     "description": "Official Claude Skills"
   },
