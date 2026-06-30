@@ -396,4 +396,4 @@ python3 scripts/generate_summary.py <chapter_info>
 > **License:** MIT
 > **Source Repo:** `neekware/ehaye-skills`
 > **Source Bucket:** `multimedia`
-> **Original Path:** `multimedia/youtube-clipper-skill`
+> **Original Path:** `multimedia/youtube-clipper`

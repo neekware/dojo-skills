@@ -2065,7 +2065,7 @@
       "license": "MIT",
       "sourceRepo": "neekware/ehaye-skills",
       "sourceBucket": "multimedia",
-      "originalPath": "multimedia/remotion",
+      "originalPath": "multimedia/remotion-best-practices",
       "bundledPath": "skills/multimedia/remotion-best-practices/SKILL.md"
     },
     {
@@ -2076,7 +2076,7 @@
       "license": "MIT",
       "sourceRepo": "neekware/ehaye-skills",
       "sourceBucket": "multimedia",
-      "originalPath": "multimedia/youtube-clipper-skill",
+      "originalPath": "multimedia/youtube-clipper",
       "bundledPath": "skills/multimedia/youtube-clipper/SKILL.md"
     },
     {
@@ -2417,7 +2417,7 @@
       "license": "MIT",
       "sourceRepo": "neekware/ehaye-skills",
       "sourceBucket": "multimedia",
-      "originalPath": "multimedia/python",
+      "originalPath": "multimedia/videodb",
       "bundledPath": "skills/multimedia/videodb/SKILL.md"
     }
   ]

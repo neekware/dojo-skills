@@ -358,4 +358,4 @@ See [rules/voiceover.md](rules/voiceover.md) for adding AI-generated voiceover t
 > **License:** MIT
 > **Source Repo:** `neekware/ehaye-skills`
 > **Source Bucket:** `multimedia`
-> **Original Path:** `multimedia/remotion`
+> **Original Path:** `multimedia/remotion-best-practices`

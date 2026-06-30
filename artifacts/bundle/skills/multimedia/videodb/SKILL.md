@@ -373,4 +373,4 @@ For complete capture workflow, see [reference/capture.md](reference/capture.md).
 > **License:** MIT
 > **Source Repo:** `neekware/ehaye-skills`
 > **Source Bucket:** `multimedia`
-> **Original Path:** `multimedia/python`
+> **Original Path:** `multimedia/videodb`
