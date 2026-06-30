@@ -1982,7 +1982,7 @@
     },
     {
       "name": "using-superpowers",
-      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
@@ -2056,6 +2056,28 @@
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/social-media-analyzer",
       "bundledPath": "skills/marketing-skill/social-media-analyzer/SKILL.md"
+    },
+    {
+      "name": "remotion-best-practices",
+      "description": "Best practices for Remotion - Video creation in React",
+      "creator": "Multimedia",
+      "namespace": "multimedia",
+      "license": "MIT",
+      "sourceRepo": "neekware/ehaye-skills",
+      "sourceBucket": "multimedia",
+      "originalPath": "multimedia/remotion",
+      "bundledPath": "skills/multimedia/remotion-best-practices/SKILL.md"
+    },
+    {
+      "name": "youtube-clipper",
+      "description": ">",
+      "creator": "op7418",
+      "namespace": "multimedia",
+      "license": "MIT",
+      "sourceRepo": "neekware/ehaye-skills",
+      "sourceBucket": "multimedia",
+      "originalPath": "multimedia/youtube-clipper-skill",
+      "bundledPath": "skills/multimedia/youtube-clipper/SKILL.md"
     },
     {
       "name": "agile-product-owner",
@@ -2386,6 +2408,17 @@
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/risk-management-specialist",
       "bundledPath": "skills/ra-qm-team/risk-management-specialist/SKILL.md"
+    },
+    {
+      "name": "videodb",
+      "description": "See, Understand, Act on video and audio. See- ingest from local files, URLs, RTSP/live feeds, or live record desktop; return realtime context and playable stream links. Understand- extract frames, build visual/semantic/temporal indexes, and search moments with timestamps and auto-clips. Act- transcode and normalize (codec, fps, resolution, aspect ratio), perform timeline edits (subtitles, text/image overlays, branding, audio overlays, dubbing, translation), generate media assets (image, audio, video), and create real time alerts for events from live streams or desktop capture.",
+      "creator": "VideoDB",
+      "namespace": "multimedia",
+      "license": "MIT",
+      "sourceRepo": "neekware/ehaye-skills",
+      "sourceBucket": "multimedia",
+      "originalPath": "multimedia/python",
+      "bundledPath": "skills/multimedia/videodb/SKILL.md"
     }
   ]
 }

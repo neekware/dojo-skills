@@ -87,7 +87,7 @@ The enemy is the _old way_ of solving the problem, not a competitor.
 
 - Salesforce's enemy: spreadsheets and disconnected tools (not Siebel)
 - Slack's enemy: email overload (not HipChat)
-- Your enemy: \***\*\_\_\_\*\***
+- Your enemy: ****\_\_\_****
 
 **Step 3: Create the category name.**
 It should be obvious in hindsight, not predictable in advance. Test it:
