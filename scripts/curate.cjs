@@ -87,6 +87,41 @@ const UPSTREAMS = [
     sourceRepo: 'obra/superpowers',
     copyRootLicense: true,
   },
+  {
+    // 3rd-party media skills — collected under the "multimedia" bucket
+    name: 'remotion-skills',
+    url: 'https://github.com/remotion-dev/skills.git',
+    origin: 'https://github.com/remotion-dev/skills.git',
+    type: 'skills',
+    skillsRoot: 'skills',
+    bucket: 'multimedia',
+    author: 'Remotion',
+    license: 'MIT',
+    sourceRepo: 'remotion-dev/skills',
+  },
+  {
+    name: 'video-db-skills',
+    url: 'https://github.com/video-db/skills.git',
+    origin: 'https://github.com/video-db/skills.git',
+    type: 'skills',
+    skillsRoot: '',
+    bucket: 'multimedia',
+    author: 'VideoDB',
+    license: 'MIT',
+    sourceRepo: 'video-db/skills',
+  },
+  {
+    // Flat repo: SKILL.md at root, install script present
+    name: 'youtube-clipper-skill',
+    url: 'https://github.com/op7418/Youtube-clipper-skill.git',
+    origin: 'https://github.com/op7418/Youtube-clipper-skill.git',
+    type: 'skills',
+    skillsRoot: '',
+    bucket: 'multimedia',
+    author: 'op7418',
+    license: 'MIT',
+    sourceRepo: 'op7418/Youtube-clipper-skill',
+  },
 ];
 
 // ── Flags ───────────────────────────────────────────────────────────
@@ -271,6 +306,22 @@ function validateSkill(filePath) {
 }
 
 /**
+ * Extract the `name` field from a SKILL.md frontmatter. Returns '' if absent.
+ */
+function parseSkillName(filePath) {
+  try {
+    const raw = fs.readFileSync(filePath, 'utf-8');
+    const match = raw.match(FRONTMATTER_RE);
+    if (!match) return '';
+    const nameMatch = match[1].match(/^name\s*:\s*(.+)$/im);
+    if (!nameMatch) return '';
+    return nameMatch[1].trim().replace(/^['"]|['"]$/g, '');
+  } catch {
+    return '';
+  }
+}
+
+/**
  * Recursively find all files matching a name under a directory.
  */
 function findFiles(dir, filename) {
@@ -432,16 +483,22 @@ function extractSkills() {
         continue;
       }
 
+      // Prefer the frontmatter name for the output directory when it
+      // differs from the source directory name (e.g. video-db's "python"
+      // dir contains a skill named "videodb").
+      const frontmatterName = parseSkillName(skillFile);
+      const outputName = frontmatterName || skillName;
+
       // Dedupe check
-      const key = `${skillName}|${bucket}`;
+      const key = `${outputName}|${bucket}`;
       if (seen.has(key)) {
         dupes++;
         continue;
       }
       seen.add(key);
 
-      // Copy skill directory
-      const destDir = path.join(SKILLS_DIR, bucket, skillName);
+      // Copy skill directory (use frontmatter-derived name for the dest dir)
+      const destDir = path.join(SKILLS_DIR, bucket, outputName);
       copyDir(skillDir, destDir, up);
 
       if (up.copyRootLicense) {
@@ -489,9 +546,11 @@ function extractCatalog() {
   fs.mkdirSync(CATALOG_DIR, { recursive: true });
   const outputFile = path.join(CATALOG_DIR, 'catalog.json');
 
-  // Start with our own curated skills repo — always first in the catalog
+  // Start with our own curated skills repo + the official Agent Skills
+  // spec repo — always first in the catalog, manually maintained.
   const catalog = [
     { repo: 'neekware/ehaye-skills', description: 'ehAye Curated Skills (patent-prep, trademark-prep, and more)' },
+    { repo: 'agentskills/agentskills', description: 'Agent Skills — official open standard, specification, and reference library' },
   ];
 
   // Parse third-party repos from awesome-agent-skills README
