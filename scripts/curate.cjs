@@ -517,9 +517,43 @@ function extractSkills() {
   ok(`Skills extracted: ${valid} valid, ${invalid} invalid, ${dupes} duplicates (${total} total)`);
 }
 
-// ── Phase 4: Parse catalog ─────────────────────────────────────────
+// ── Phase 3b: Convert bundled scripts to Markdown ──────────────────
+// Raw scripts (.py/.sh/.js/…) carry the executable bit but are not Mach-O
+// binaries, so macOS codesign cannot sign them and the release build's
+// signature verification fails. We never execute bundled skill scripts, so
+// convert each to a fenced-code .md (readable reference) and drop the original.
 
-// ── Phase 3b: Format skills with prettier ─────────────────────────
+function convertScriptsToMarkdown() {
+  step('Converting bundled scripts to Markdown');
+
+  // Use execSync directly (not the exec() helper) because these calls inherit
+  // stdio; the helper's .trim() on a null return would crash on success.
+  try {
+    execSync(`node "${path.join(__dirname, 'script-to-markdown.cjs')}" "${SKILLS_DIR}"`, {
+      cwd: ROOT_DIR,
+      stdio: 'inherit',
+    });
+    ok('Scripts converted to Markdown');
+  } catch (e) {
+    err(`Script-to-Markdown conversion failed: ${e.message}`);
+    throw e;
+  }
+
+  // Hard guard: prove no script/executable survived the conversion. This is
+  // what keeps the release build's macOS signing step from ever breaking on a
+  // stray executable slipping in from an upstream change.
+  try {
+    execSync(`node "${path.join(__dirname, 'verify-no-scripts.cjs')}" "${SKILLS_DIR}"`, {
+      cwd: ROOT_DIR,
+      stdio: 'inherit',
+    });
+  } catch (e) {
+    err('Skills tree still contains scripts/executables after conversion — aborting.');
+    throw e;
+  }
+}
+
+// ── Phase 3c: Format skills with prettier ─────────────────────────
 
 function formatSkills() {
   step('Formatting markdown with prettier');
@@ -659,6 +693,7 @@ function main() {
 
   syncUpstreams();
   extractSkills();
+  convertScriptsToMarkdown();
   formatSkills();
   extractCatalog();
   updateMarkers();

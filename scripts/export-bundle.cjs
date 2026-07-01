@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
+const { execFileSync } = require('child_process');
 
 const ROOT = path.resolve(__dirname, '..');
 const SOURCE_SKILLS_DIR = path.join(ROOT, 'skills');
@@ -275,6 +276,15 @@ function main() {
     ].join('\n')
   );
   console.log(`Exported ${manifest.length} skills to ${OUTPUT_DIR}`);
+
+  // Hard guard: the exported bundle is what actually ships in the app as
+  // read-only resources. Fail the export if any script/executable made it in —
+  // this is the last line of defense before packaging and macOS signing.
+  execFileSync(
+    process.execPath,
+    [path.join(__dirname, 'verify-no-scripts.cjs'), OUTPUT_SKILLS_DIR],
+    { stdio: 'inherit' }
+  );
 }
 
 main();
