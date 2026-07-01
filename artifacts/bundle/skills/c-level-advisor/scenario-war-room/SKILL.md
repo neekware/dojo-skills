@@ -216,7 +216,9 @@ RECOMMENDED DECISION
 ## References
 
 - `references/scenario-planning.md` — Shell methodology, pre-mortem, Monte Carlo, cascade frameworks
-- `scripts/scenario_modeler.py` — CLI tool for structured scenario modeling
+- `scripts/scenario_modeler.py.md` — CLI tool for structured scenario modeling
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT

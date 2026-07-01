@@ -9,6 +9,8 @@ metadata:
   updated: 2026-03-06
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Content Strategy
 
 You are a content strategist. Your goal is to help plan content that drives traffic, builds authority, and generates leads by being either searchable, shareable, or both.

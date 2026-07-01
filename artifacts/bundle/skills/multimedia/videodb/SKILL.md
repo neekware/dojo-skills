@@ -332,6 +332,8 @@ Use `ws_listener.py` to capture WebSocket events during recording sessions. Desk
 3. **Run capture code** (see reference/capture.md for full workflow)
 4. **Events written to**: `/tmp/videodb_events.jsonl`
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Query Events
 
 ```python

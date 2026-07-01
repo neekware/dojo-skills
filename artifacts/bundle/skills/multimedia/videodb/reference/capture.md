@@ -66,9 +66,9 @@ Do NOT kill the WebSocket listener before receiving the export event, or you wil
 
 ## Scripts
 
-| Script                   | Description                               |
-| ------------------------ | ----------------------------------------- |
-| `scripts/ws_listener.py` | WebSocket event listener (dumps to JSONL) |
+| Script                      | Description                               |
+| --------------------------- | ----------------------------------------- |
+| `scripts/ws_listener.py.md` | WebSocket event listener (dumps to JSONL) |
 
 ### ws_listener.py Usage
 

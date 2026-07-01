@@ -156,8 +156,10 @@ Every product gets one: **Invest / Maintain / Kill**. "Wait and see" is not a po
 | `references/product_strategy.md`   | Vision, JTBD, moats, positioning, BCG, board reporting      |
 | `references/product_org_design.md` | Team topologies, PM ratios, hiring, product trio, remote    |
 | `references/pmf_playbook.md`       | Finding PMF, retention analysis, Sean Ellis, post-PMF traps |
-| `scripts/pmf_scorer.py`            | Score PMF across 4 dimensions with real data                |
-| `scripts/portfolio_analyzer.py`    | BCG classify and score your product portfolio               |
+| `scripts/pmf_scorer.py.md`         | Score PMF across 4 dimensions with real data                |
+| `scripts/portfolio_analyzer.py.md` | BCG classify and score your product portfolio               |
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ## Proactive Triggers
 

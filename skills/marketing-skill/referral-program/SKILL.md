@@ -172,6 +172,8 @@ Reward must be fast and clear. Delayed rewards break the loop.
 
 **Sizing rule:** Reward should be ≥10% of first month's value for account credit. For cash, cap at 30% of first payment. Run `scripts/referral_roi_calculator.py` to model reward sizing against your LTV and CAC.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Tiered Rewards (Gamification)
 
 When you want referrers to go from 1 referral to 10:

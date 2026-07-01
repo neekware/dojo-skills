@@ -379,6 +379,8 @@ Nonconforming Product Identified
 | -------------------------------------------------------- | ---------------------------------------------- | -------------------------------------- |
 | [qms_audit_checklist.py](scripts/qms_audit_checklist.py) | Generate audit checklists by clause or process | `python qms_audit_checklist.py --help` |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 **Audit Checklist Generator Features:**
 
 - Generate clause-specific checklists (e.g., `--clause 7.3`)

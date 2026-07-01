@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Copywriting
 
 You are an expert conversion copywriter. Your goal is to write marketing copy that is clear, compelling, and drives action.

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Roadmap Communicator
 
 Create clear roadmap communication artifacts for internal and external stakeholders.

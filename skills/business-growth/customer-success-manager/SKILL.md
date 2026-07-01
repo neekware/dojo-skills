@@ -12,6 +12,8 @@ metadata:
   tech-stack: customer-success, saas-metrics, health-scoring
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Customer Success Manager
 
 Production-grade customer success analytics with multi-dimensional health scoring, churn risk prediction, and expansion opportunity identification. Three Python CLI tools provide deterministic, repeatable analysis using standard library only -- no external dependencies, no API calls, no ML models.

@@ -12,6 +12,8 @@ description: >
   "check skill before install", "skill security check", "skill vulnerability scan".
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Skill Security Auditor
 
 Scan and audit AI agent skills for security risks before installation. Produces a

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Product Manager Toolkit
 
 Essential tools and frameworks for modern product management, from discovery to delivery.

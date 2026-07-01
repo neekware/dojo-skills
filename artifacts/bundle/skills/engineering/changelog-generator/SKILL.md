@@ -97,6 +97,8 @@ SemVer mapping:
   - Validates commit format
   - Returns non-zero in `--strict` mode on violations
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## Common Pitfalls
 
 1. Mixing merge commit messages with release commit parsing

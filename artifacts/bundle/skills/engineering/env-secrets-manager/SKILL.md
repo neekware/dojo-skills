@@ -49,6 +49,8 @@ python3 scripts/env_auditor.py /path/to/repo --json
 4. Update `.env.example` and `.gitignore` as needed.
 5. Add or tighten pre-commit/CI secret scanning gates.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Reference Docs

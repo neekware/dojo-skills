@@ -157,4 +157,6 @@ memory/board-meetings/
 ## References
 
 - `templates/decision-entry.md` — single entry template with field rules
-- `scripts/decision_tracker.py` — CLI parser, overdue tracker, conflict detector
+- `scripts/decision_tracker.py.md` — CLI parser, overdue tracker, conflict detector
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.

@@ -424,6 +424,8 @@ immediately    Yes─┴─No
 | -------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------- |
 | [management_review_tracker.py](scripts/management_review_tracker.py) | Track review inputs, actions, metrics | `python management_review_tracker.py --help` |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 **Management Review Tracker Features:**
 
 - Track input collection status from process owners

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior ML Engineer
 
 Production ML engineering patterns for model deployment, MLOps infrastructure, and LLM integration.

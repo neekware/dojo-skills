@@ -3,6 +3,8 @@ name: product-manager-toolkit
 description: Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Product Manager Toolkit
 
 Essential tools and frameworks for modern product management, from discovery to delivery.

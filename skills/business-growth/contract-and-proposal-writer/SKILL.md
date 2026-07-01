@@ -231,10 +231,10 @@ UK: LCIA Rules, London. English law.
 
 ---
 
-CLIENT: ************\_************ Date: ****\_****
+CLIENT: ****\*\*\*\*****\_****\*\*\*\***** Date: \***\*\_\*\***
 [CLIENT NAME], [TITLE]
 
-DEVELOPER: ************\_************ Date: ****\_****
+DEVELOPER: ****\*\*\*\*****\_****\*\*\*\***** Date: \***\*\_\*\***
 [YOUR NAME], [TITLE]
 ```
 

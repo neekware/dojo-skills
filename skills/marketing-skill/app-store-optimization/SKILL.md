@@ -430,6 +430,8 @@ Trusted by 500,000+ professionals.
 | [launch_checklist.py](scripts/launch_checklist.py)       | Generate platform-specific launch checklists   | `python launch_checklist.py --platform ios`                       |
 | [localization_helper.py](scripts/localization_helper.py) | Manage multi-language metadata                 | `python localization_helper.py --locales "en,es,de,ja"`           |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### References
 
 | Document                                                          | Content                                                    |

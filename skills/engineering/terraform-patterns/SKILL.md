@@ -94,6 +94,8 @@ If the user has `.tf` files or wants to provision infrastructure with Terraform 
    python3 scripts/tf_module_analyzer.py ./terraform
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 4. **Run security scan**
    ```bash
    python3 scripts/tf_security_scanner.py ./terraform
@@ -180,7 +182,7 @@ If the user has `.tf` files or wants to provision infrastructure with Terraform 
 
 ## Tooling
 
-### `scripts/tf_module_analyzer.py`
+### `scripts/tf_module_analyzer.py.md`
 
 CLI utility for analyzing Terraform directory structure and module quality.
 
@@ -206,7 +208,7 @@ python3 scripts/tf_module_analyzer.py ./terraform --output json
 python3 scripts/tf_module_analyzer.py ./modules/vpc
 ```
 
-### `scripts/tf_security_scanner.py`
+### `scripts/tf_security_scanner.py.md`
 
 CLI utility for scanning `.tf` files for common security issues.
 

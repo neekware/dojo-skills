@@ -415,6 +415,8 @@ What is the risk level?
 | -------------------------------------------------------------- | ---------------------------------- | ----------------------------------------- |
 | [risk_matrix_calculator.py](scripts/risk_matrix_calculator.py) | Calculate risk levels and FMEA RPN | `python risk_matrix_calculator.py --help` |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 **Risk Matrix Calculator Features:**
 
 - ISO 14971 5x5 risk matrix calculation

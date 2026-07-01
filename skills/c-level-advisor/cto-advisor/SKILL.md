@@ -12,6 +12,8 @@ metadata:
   frameworks: architecture-decisions, engineering-metrics, technology-evaluation
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # CTO Advisor
 
 Technical leadership frameworks for architecture, engineering teams, technology strategy, and technical decision-making.

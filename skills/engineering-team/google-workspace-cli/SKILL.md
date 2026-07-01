@@ -313,6 +313,8 @@ gws drive about get --json  # Check current settings
 | `workspace_audit.py`   | Security/config audit   | `python3 scripts/workspace_audit.py [--json] [--demo]`            |
 | `output_analyzer.py`   | JSON/NDJSON analysis    | `gws ... --json \| python3 scripts/output_analyzer.py --count`    |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 All scripts are stdlib-only, support `--json` output, and include demo mode with embedded sample data.
 
 ---

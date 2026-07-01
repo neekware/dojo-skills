@@ -387,6 +387,8 @@ See: [references/cryptography-implementation.md](references/cryptography-impleme
 | [threat_modeler.py](scripts/threat_modeler.py) | STRIDE threat analysis with DREAD risk scoring; JSON and text output; interactive guided mode |
 | [secret_scanner.py](scripts/secret_scanner.py) | Detect hardcoded secrets and credentials across 20+ patterns; CI/CD integration ready         |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 For usage, see the inline code examples in [Secure Code Review Workflow](#inline-code-examples) and the script source files directly.
 
 ### References

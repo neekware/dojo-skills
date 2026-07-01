@@ -16,12 +16,14 @@ Work with partial data. Be explicit about what is missing and what assumptions a
 
 Run `scripts/metrics_calculator.py` with the user's inputs. If the script is unavailable, use the formulas in `references/formulas.md`.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 Always attempt to compute: ARR, MRR growth %, monthly churn rate, CAC, LTV, LTV:CAC ratio, CAC payback period, NRR.
 
 **Additional Analysis Tools:**
 
-- Use `scripts/quick_ratio_calculator.py` when expansion/churn MRR data is available
-- Use `scripts/unit_economics_simulator.py` for forward-looking projections
+- Use `scripts/quick_ratio_calculator.py.md` when expansion/churn MRR data is available
+- Use `scripts/unit_economics_simulator.py.md` for forward-looking projections
 
 ## Step 3 — Benchmark Each Metric
 
@@ -100,13 +102,13 @@ Expected output: Flags negative MoM growth (-6.4%), critical churn (11.25%), and
 - `references/formulas.md` — All metric formulas with worked examples
 - `references/benchmarks.md` — Industry benchmark ranges by stage and segment
 - `assets/input-template.md` — Blank input form to share with users
-- `scripts/metrics_calculator.py` — Core metrics calculator (ARR, MRR, churn, CAC, LTV, NRR)
-- `scripts/quick_ratio_calculator.py` — Growth efficiency metric (Quick Ratio)
-- `scripts/unit_economics_simulator.py` — 12-month forward projection
+- `scripts/metrics_calculator.py.md` — Core metrics calculator (ARR, MRR, churn, CAC, LTV, NRR)
+- `scripts/quick_ratio_calculator.py.md` — Growth efficiency metric (Quick Ratio)
+- `scripts/unit_economics_simulator.py.md` — 12-month forward projection
 
 ## Tools
 
-### 1. Metrics Calculator (`scripts/metrics_calculator.py`)
+### 1. Metrics Calculator (`scripts/metrics_calculator.py.md`)
 
 Core SaaS metrics from raw business numbers.
 
@@ -118,7 +120,7 @@ python scripts/metrics_calculator.py
 python scripts/metrics_calculator.py --mrr 50000 --customers 100 --churned 5 --json
 ```
 
-### 2. Quick Ratio Calculator (`scripts/quick_ratio_calculator.py`)
+### 2. Quick Ratio Calculator (`scripts/quick_ratio_calculator.py.md`)
 
 Growth efficiency metric: (New MRR + Expansion) / (Churned + Contraction)
 
@@ -134,7 +136,7 @@ python scripts/quick_ratio_calculator.py --new-mrr 10000 --expansion 2000 --chur
 - 2-4 = HEALTHY (good efficiency)
 - \> 4 = EXCELLENT (strong growth)
 
-### 3. Unit Economics Simulator (`scripts/unit_economics_simulator.py`)
+### 3. Unit Economics Simulator (`scripts/unit_economics_simulator.py.md`)
 
 Project metrics forward 12 months based on growth/churn assumptions.
 

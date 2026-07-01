@@ -328,4 +328,4 @@ Run Sean Ellis test every quarter. Track D30 retention by cohort every month. Pu
 | NPS (retained users)       | > 40                    | Quarterly           |
 | DAU/MAU (if daily product) | > 20%                   | Weekly              |
 
-Use `scripts/pmf_scorer.py` to run all dimensions together with weighted scoring.
+Use `scripts/pmf_scorer.py.md` to run all dimensions together with weighted scoring.

@@ -102,6 +102,8 @@ If the user has a Helm chart or wants to package Kubernetes resources → this s
    helm template mychart/ --debug
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### `/helm:review` — Chart Analysis
 
 1. **Check chart structure**
@@ -198,7 +200,7 @@ If the user has a Helm chart or wants to package Kubernetes resources → this s
 
 ## Tooling
 
-### `scripts/chart_analyzer.py`
+### `scripts/chart_analyzer.py.md`
 
 CLI utility for static analysis of Helm chart directories.
 
@@ -224,7 +226,7 @@ python3 scripts/chart_analyzer.py mychart/ --output json
 python3 scripts/chart_analyzer.py mychart/ --security
 ```
 
-### `scripts/values_validator.py`
+### `scripts/values_validator.py.md`
 
 CLI utility for validating values.yaml against best practices.
 

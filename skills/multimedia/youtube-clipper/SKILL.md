@@ -85,6 +85,8 @@ metadata:
    python3 scripts/download_video.py <youtube_url>
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 3. 脚本会：
    - 下载视频（最高 1080p，mp4 格式）
    - 下载英文字幕（VTT 格式，自动字幕作为备选）

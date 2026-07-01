@@ -130,6 +130,8 @@ Recommended: Generate tests for P0 items first to reach 80% threshold.
 | `tdd_workflow.py`      | Guide red-green-refactor cycles            | `python scripts/tdd_workflow.py --phase red --test test_auth.py`        |
 | `fixture_generator.py` | Generate test data and mocks               | `python scripts/fixture_generator.py --entity User --count 5`           |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 Additional scripts: `framework_adapter.py` (convert between frameworks), `metrics_calculator.py` (quality metrics), `format_detector.py` (detect language/framework), `output_formatter.py` (CLI/desktop/CI output).
 
 ---

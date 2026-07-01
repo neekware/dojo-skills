@@ -35,7 +35,7 @@ pip3 install --break-system-packages yt-dlp pysrt python-dotenv
 TypeError: unsupported operand type(s) for /: 'int' and 'NoneType'
 ```
 
-**位置**: `scripts/download_video.py` 的 `_progress_hook` 函数第 161 行
+**位置**: `scripts/download_video.py.md` 的 `_progress_hook` 函数第 161 行
 
 **原因**: 某些视频在下载时不提供 `total_bytes` 信息，导致除法运算失败
 
@@ -77,7 +77,7 @@ Anthropic's Amodei on AI： Power and Risk [Ckt1cj0xjRM].mp4
 - 文件名中的单引号也会导致 shell 命令解析问题
 
 **永久修复**:
-修改 `scripts/download_video.py` 的输出模板，只使用视频 ID（保证无特殊字符）
+修改 `scripts/download_video.py.md` 的输出模板，只使用视频 ID（保证无特殊字符）
 
 ```python
 # 修复前（第 70 行）

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # MDR 2017/745 Specialist
 
 EU MDR compliance patterns for medical device classification, technical documentation, and clinical evidence.

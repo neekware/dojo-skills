@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # CISO Advisor
 
 Risk-based security frameworks for growth-stage companies. Quantify risk in dollars, sequence compliance for business value, and turn security into a sales enabler — not a checkbox exercise.

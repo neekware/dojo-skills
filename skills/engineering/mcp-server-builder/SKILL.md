@@ -96,6 +96,8 @@ Checks include duplicate names, invalid schema shape, missing descriptions, empt
   - Validates manifests and optional runtime config
   - Returns non-zero exit in strict mode when errors exist
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## Common Pitfalls
 
 1. Tool names derived directly from raw paths (`get__v1__users___id`)

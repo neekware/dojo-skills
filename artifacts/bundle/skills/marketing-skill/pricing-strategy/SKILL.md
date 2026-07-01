@@ -305,6 +305,8 @@ Surface these without being asked:
 | "Research pricing"        | Van Westendorp survey questions + MaxDiff framework for your specific product         |
 | "Model pricing scenarios" | Run `scripts/pricing_modeler.py` with your inputs                                     |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Communication

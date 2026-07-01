@@ -40,6 +40,8 @@ When they have a site and want to know what schema exists and what's broken.
 3. Cross-reference against `references/schema-types-guide.md` for required fields
 4. Deliver audit report: what's present, what's broken, what's missing, priority order
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Mode 2: Implement New Schema
 
 When they need to add structured data to pages — from scratch or to a new page type.
@@ -177,7 +179,7 @@ Always test before publishing. Use all three:
    - Catches errors Google might miss or that affect other parsers
    - Good for structured data targeting non-Google systems
 
-3. **`scripts/schema_validator.py`** — run locally on any HTML file
+3. **`scripts/schema_validator.py.md`** — run locally on any HTML file
    - Extracts all JSON-LD blocks from a page
    - Validates required fields per schema type
    - Scores completeness 0-100

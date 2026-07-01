@@ -37,6 +37,8 @@ This skill is essential for maintaining ecosystem consistency, enabling automate
 - **Documentation Standards**: Checks SKILL.md frontmatter, section completeness, minimum line counts per tier
 - **File Format Validation**: Ensures proper Markdown formatting, YAML frontmatter syntax, and file naming conventions
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Advanced Script Testing
 
 - **Syntax Validation**: Compiles Python scripts to detect syntax errors before execution

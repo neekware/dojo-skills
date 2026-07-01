@@ -501,10 +501,12 @@ Each page's Markdown should be **standalone** — reading just that file gives c
 
 ### Scripts
 
-| Script                         | Purpose                                                        | Usage                                           |
-| ------------------------------ | -------------------------------------------------------------- | ----------------------------------------------- |
-| `scripts/codebase_analyzer.py` | Scan codebase → extract routes, APIs, models, enums, structure | `python3 codebase_analyzer.py /path/to/project` |
-| `scripts/prd_scaffolder.py`    | Generate PRD directory skeleton from analysis JSON             | `python3 prd_scaffolder.py analysis.json`       |
+| Script                            | Purpose                                                        | Usage                                           |
+| --------------------------------- | -------------------------------------------------------------- | ----------------------------------------------- |
+| `scripts/codebase_analyzer.py.md` | Scan codebase → extract routes, APIs, models, enums, structure | `python3 codebase_analyzer.py /path/to/project` |
+| `scripts/prd_scaffolder.py.md`    | Generate PRD directory skeleton from analysis JSON             | `python3 prd_scaffolder.py analysis.json`       |
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 **Recommended workflow:**
 

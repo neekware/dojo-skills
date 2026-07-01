@@ -146,6 +146,8 @@ You are the loop. The scripts handle setup and evaluation — you handle the cre
 6. Read the output — it prints KEEP, DISCARD, or CRASH with the metric value
 7. Go to step 1
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### What the Script Handles (you don't)
 
 - Running the eval command with timeout

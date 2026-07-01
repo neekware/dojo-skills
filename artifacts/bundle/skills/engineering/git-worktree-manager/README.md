@@ -20,8 +20,8 @@ python scripts/worktree_cleanup.py --repo . --stale-days 14 --format text
 
 ## Included Tools
 
-- `scripts/worktree_manager.py`: create/list-prep workflow, deterministic ports, `.env*` sync, optional dependency install
-- `scripts/worktree_cleanup.py`: stale/dirty/merged analysis with optional safe removal
+- `scripts/worktree_manager.py.md`: create/list-prep workflow, deterministic ports, `.env*` sync, optional dependency install
+- `scripts/worktree_cleanup.py.md`: stale/dirty/merged analysis with optional safe removal
 
 Both support `--input <json-file>` and stdin JSON for automation.
 

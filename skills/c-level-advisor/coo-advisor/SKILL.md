@@ -12,6 +12,8 @@ metadata:
   frameworks: scaling-playbook, ops-cadence, process-frameworks
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # COO Advisor
 
 Operational frameworks and tools for turning strategy into execution, scaling processes, and building the organizational engine.

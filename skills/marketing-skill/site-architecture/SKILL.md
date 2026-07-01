@@ -53,6 +53,8 @@ When a site exists and they need a structural assessment.
 4. Identify the top structural problems by SEO impact
 5. Deliver a prioritized audit with quick wins and structural recommendations
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Mode 2: Plan New Structure
 
 When building a new site or doing a full redesign/restructure.

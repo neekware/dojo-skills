@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior Data Scientist
 
 World-class senior data scientist skill for production-grade AI/ML/Data systems.

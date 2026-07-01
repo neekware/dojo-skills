@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Executive Mentor
 
 Not another advisor. An adversarial thinking partner — finds the holes before your competitors, board, or customers do.

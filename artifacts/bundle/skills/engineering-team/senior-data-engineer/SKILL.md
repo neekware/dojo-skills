@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior Data Engineer
 
 Production-grade data engineering skill for building scalable, reliable data systems.

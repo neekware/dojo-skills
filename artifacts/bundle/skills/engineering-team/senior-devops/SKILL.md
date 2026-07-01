@@ -209,6 +209,8 @@ python scripts/deployment_manager.py --analyze --env=production   # audit curren
 - Technical Guide: `references/deployment_strategies.md` — deployment strategy configs, security considerations, scalability
 - Tool Scripts: `scripts/` directory
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## Development Workflow
 
 ### 1. Infrastructure Changes (Terraform)

@@ -59,6 +59,8 @@ python3 scripts/codebase_analyzer.py /path/to/repo --json
    - Senior: architecture + operational concerns
    - Contractor: scoped ownership + integration boundaries
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Onboarding Document Template

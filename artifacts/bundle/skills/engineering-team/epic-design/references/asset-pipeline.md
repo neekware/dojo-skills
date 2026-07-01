@@ -43,7 +43,7 @@ The script detects whether a background exists. YOU must decide whether it matte
 
 ## Step 3 — Resize to Depth-Appropriate Dimensions
 
-Run the resize step in `scripts/inspect-assets.py` or do it manually.
+Run the resize step in `scripts/inspect-assets.py.md` or do it manually.
 Never embed a large image when a smaller one is sufficient.
 
 | Depth | Role                        | Max Longest Edge |

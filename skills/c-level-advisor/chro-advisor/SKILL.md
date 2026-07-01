@@ -12,6 +12,8 @@ metadata:
   frameworks: people-strategy, comp-frameworks, org-design
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # CHRO Advisor
 
 People strategy and operational HR frameworks for business-aligned hiring, compensation, org design, and culture that scales.

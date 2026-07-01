@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # CEO Advisor
 
 Strategic leadership frameworks for vision, fundraising, board management, culture, and stakeholder alignment.

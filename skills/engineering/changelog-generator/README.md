@@ -18,8 +18,8 @@ python3 scripts/commit_linter.py --from-ref origin/main --to-ref HEAD --strict -
 
 ## Included Tools
 
-- `scripts/generate_changelog.py`: parse commits, infer semver bump, render markdown/JSON, optional file prepend
-- `scripts/commit_linter.py`: validate commit subjects against Conventional Commits rules
+- `scripts/generate_changelog.py.md`: parse commits, infer semver bump, render markdown/JSON, optional file prepend
+- `scripts/commit_linter.py.md`: validate commit subjects against Conventional Commits rules
 
 ## References
 

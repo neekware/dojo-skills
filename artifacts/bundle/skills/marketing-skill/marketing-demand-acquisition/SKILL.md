@@ -210,6 +210,8 @@ See [attribution-guide.md](references/attribution-guide.md) for detailed setup.
 
 ### scripts/
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 | Script             | Purpose                           | Usage                                                          |
 | ------------------ | --------------------------------- | -------------------------------------------------------------- |
 | `calculate_cac.py` | Calculate blended and channel CAC | `python scripts/calculate_cac.py --spend 40000 --customers 50` |

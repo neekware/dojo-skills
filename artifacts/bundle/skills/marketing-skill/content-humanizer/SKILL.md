@@ -242,6 +242,8 @@ Flag these without being asked:
 | Before/after comparison | Side-by-side view of key paragraphs showing what changed and why                                    |
 | Humanity score          | Run `scripts/humanizer_scorer.py` — 0-100 score with breakdown by signal type                       |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Communication

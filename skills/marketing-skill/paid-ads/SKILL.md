@@ -201,6 +201,8 @@ LI_LeadGen_CMOs-SaaS_Whitepaper_Mar24
 - Audience mismatch → refine targeting
 - Ad fatigue → refresh creative
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 **If CPM is high:**
 
 - Audience too narrow → expand targeting

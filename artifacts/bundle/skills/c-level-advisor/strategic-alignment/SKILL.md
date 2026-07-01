@@ -72,7 +72,9 @@ Three failure patterns:
 - Symptom: Company OKR-3 consistently misses; nobody owns it
 - Fix: Explicit ownership assignment. If no team owns a company OKR, it won't happen.
 
-See `scripts/alignment_checker.py` for automated detection against your JSON-formatted OKRs.
+See `scripts/alignment_checker.py.md` for automated detection against your JSON-formatted OKRs.
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ### Step 4: Silo Identification
 
@@ -190,7 +192,7 @@ A quick health check. Score each area 0–10:
 
 ## Detailed References
 
-- `scripts/alignment_checker.py` — Automated OKR alignment analysis (orphans, conflicts, coverage)
+- `scripts/alignment_checker.py.md` — Automated OKR alignment analysis (orphans, conflicts, coverage)
 - `references/alignment-playbook.md` — Cascade techniques, quarterly alignment check, common patterns
 
 > **Creator:** Alireza Rezvani

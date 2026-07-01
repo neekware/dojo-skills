@@ -3,6 +3,8 @@ name: api-design-reviewer
 description: API Design Reviewer
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # API Design Reviewer
 
 **Tier:** POWERFUL  

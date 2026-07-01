@@ -216,11 +216,13 @@ Before submitting any ad copy, verify:
 
 **Platform Compliance**
 
-- [ ] All character counts within limits (use `scripts/ad_copy_validator.py`)
+- [ ] All character counts within limits (use `scripts/ad_copy_validator.py.md`)
 - [ ] No ALL CAPS except acronyms (Google and Meta both flag it)
 - [ ] No excessive punctuation (!!!, ???, …. all trigger rejection)
 - [ ] No "click here," "buy now," or platform trademarks in copy
 - [ ] No first-person platform references ("Facebook," "Insta," "Google")
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 **Quality Standards**
 

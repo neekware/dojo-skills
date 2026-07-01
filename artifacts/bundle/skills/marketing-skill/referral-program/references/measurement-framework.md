@@ -165,7 +165,7 @@ Where:
 
 Compare to paid CAC, and you know if the program is worth it.
 
-Use `scripts/referral_roi_calculator.py` to model this for your numbers.
+Use `scripts/referral_roi_calculator.py.md` to model this for your numbers.
 
 ---
 

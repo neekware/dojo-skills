@@ -426,9 +426,9 @@ Step 6: Documentation
 
 ### System Information
 
-System Name: **********\_**********
-System Owner: ********\_\_\_\_********
-Date: ************\_\_\_************
+System Name: ****\*\*****\_****\*\*****
+System Owner: **\*\*\*\***\_\_\_\_**\*\*\*\***
+Date: ****\*\*\*\*****\_\_\_****\*\*\*\*****
 
 ### Asset Inventory
 
@@ -458,8 +458,8 @@ Date: ************\_\_\_************
 
 ### Approval
 
-Risk Assessment Approved: ******\_\_\_****** Date: **\_\_\_**
-Next Assessment Due: ******\_\_\_******
+Risk Assessment Approved: **\*\***\_\_\_**\*\*** Date: **\_\_\_**
+Next Assessment Due: **\*\***\_\_\_**\*\***
 ```
 
 ---
@@ -570,8 +570,8 @@ c) Mitigate harmful effects
 
 ### Signatures
 
-COVERED ENTITY: ********\_******** Date: **\_\_\_**
-BUSINESS ASSOCIATE: ******\_****** Date: **\_\_\_**
+COVERED ENTITY: **\*\*\*\***\_**\*\*\*\*** Date: **\_\_\_**
+BUSINESS ASSOCIATE: **\*\***\_**\*\*** Date: **\_\_\_**
 ```
 
 ---

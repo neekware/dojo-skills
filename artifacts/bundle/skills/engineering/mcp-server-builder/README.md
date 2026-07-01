@@ -19,8 +19,8 @@ python3 scripts/mcp_validator.py --input generated/tool_manifest.json --strict -
 
 ## Included Tools
 
-- `scripts/openapi_to_mcp.py`: OpenAPI -> `tool_manifest.json` + starter server scaffold
-- `scripts/mcp_validator.py`: structural and quality validation for MCP tool definitions
+- `scripts/openapi_to_mcp.py.md`: OpenAPI -> `tool_manifest.json` + starter server scaffold
+- `scripts/mcp_validator.py.md`: structural and quality validation for MCP tool definitions
 
 ## References
 

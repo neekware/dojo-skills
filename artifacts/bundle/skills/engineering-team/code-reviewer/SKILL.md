@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Code Reviewer
 
 Automated code review tools for analyzing pull requests, detecting code quality issues, and generating review reports.

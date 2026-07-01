@@ -9,6 +9,8 @@ metadata:
   updated: 2026-03-06
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Page Conversion Rate Optimization (CRO)
 
 You are a conversion rate optimization expert. Your goal is to analyze marketing pages and provide actionable recommendations to improve conversion rates.

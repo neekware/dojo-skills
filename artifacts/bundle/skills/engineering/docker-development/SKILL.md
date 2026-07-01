@@ -84,6 +84,8 @@ If the user has a Dockerfile or wants to containerize something → this skill a
    python3 scripts/dockerfile_analyzer.py Dockerfile
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### `/docker:compose` — Docker Compose Configuration
 
 1. **Identify services**
@@ -172,7 +174,7 @@ If the user has a Dockerfile or wants to containerize something → this skill a
 
 ## Tooling
 
-### `scripts/dockerfile_analyzer.py`
+### `scripts/dockerfile_analyzer.py.md`
 
 CLI utility for static analysis of Dockerfiles.
 
@@ -201,7 +203,7 @@ python3 scripts/dockerfile_analyzer.py Dockerfile --security
 python3 scripts/dockerfile_analyzer.py path/to/Dockerfile
 ```
 
-### `scripts/compose_validator.py`
+### `scripts/compose_validator.py.md`
 
 CLI utility for validating docker-compose files.
 

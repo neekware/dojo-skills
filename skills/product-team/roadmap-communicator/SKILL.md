@@ -3,6 +3,8 @@ name: roadmap-communicator
 description: Use when preparing roadmap narratives, release notes, changelogs, or stakeholder updates tailored for executives, engineering teams, and customers.
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Roadmap Communicator
 
 Create clear roadmap communication artifacts for internal and external stakeholders.

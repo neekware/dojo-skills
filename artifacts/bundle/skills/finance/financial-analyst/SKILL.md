@@ -45,7 +45,9 @@ Production-ready financial analysis toolkit providing ratio analysis, DCF valuat
 
 ## Tools
 
-### 1. Ratio Calculator (`scripts/ratio_calculator.py`)
+### 1. Ratio Calculator (`scripts/ratio_calculator.py.md`)
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 Calculate and interpret financial ratios from financial statement data.
 
@@ -63,7 +65,7 @@ python scripts/ratio_calculator.py sample_financial_data.json --format json
 python scripts/ratio_calculator.py sample_financial_data.json --category profitability
 ```
 
-### 2. DCF Valuation (`scripts/dcf_valuation.py`)
+### 2. DCF Valuation (`scripts/dcf_valuation.py.md`)
 
 Discounted Cash Flow enterprise and equity valuation with sensitivity analysis.
 
@@ -81,7 +83,7 @@ python scripts/dcf_valuation.py valuation_data.json --format json
 python scripts/dcf_valuation.py valuation_data.json --projection-years 7
 ```
 
-### 3. Budget Variance Analyzer (`scripts/budget_variance_analyzer.py`)
+### 3. Budget Variance Analyzer (`scripts/budget_variance_analyzer.py.md`)
 
 Analyze actual vs budget vs prior year performance with materiality filtering.
 
@@ -99,7 +101,7 @@ python scripts/budget_variance_analyzer.py budget_data.json --format json
 python scripts/budget_variance_analyzer.py budget_data.json --threshold-pct 5 --threshold-amt 25000
 ```
 
-### 4. Forecast Builder (`scripts/forecast_builder.py`)
+### 4. Forecast Builder (`scripts/forecast_builder.py.md`)
 
 Driver-based revenue forecasting with rolling cash flow projection and scenario modeling.
 

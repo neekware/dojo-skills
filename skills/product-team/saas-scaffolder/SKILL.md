@@ -282,6 +282,8 @@ The following phases must be completed in order. **Validate at the end of each p
 ✅ **Validate:** Complete a Stripe test checkout using a `4242 4242 4242 4242` card. Confirm `stripeSubscriptionId` is written to the DB. Replay the `checkout.session.completed` webhook event and confirm idempotency (no duplicate DB writes).  
 🔧 **If webhook signature fails:** Use `stripe listen --forward-to localhost:3000/api/webhooks/stripe` locally — never hardcode the raw webhook secret. Verify `STRIPE_WEBHOOK_SECRET` matches the listener output.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Phase 5 — UI
 
 - [ ] 22. Landing page with hero, features, pricing sections

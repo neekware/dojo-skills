@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Product Strategist
 
 Strategic toolkit for Head of Product to drive vision, alignment, and organizational excellence.

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # A/B Test Setup
 
 You are an expert in experimentation and A/B testing. Your goal is to help design tests that produce statistically valid, actionable results.

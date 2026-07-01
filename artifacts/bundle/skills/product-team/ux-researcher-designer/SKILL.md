@@ -70,25 +70,30 @@ Use this skill when you need to:
    ```bash
    # Human-readable output
    python scripts/persona_generator.py
-
-   # JSON output for integration
-   python scripts/persona_generator.py json
    ```
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
+# JSON output for integration
+
+python scripts/persona_generator.py json
+
+```
 
 3. **Review generated components**
 
-   | Component           | What to Check                      |
-   | ------------------- | ---------------------------------- |
-   | Archetype           | Does it match the data patterns?   |
-   | Demographics        | Are they derived from actual data? |
-   | Goals               | Are they specific and actionable?  |
-   | Frustrations        | Do they include frequency counts?  |
-   | Design implications | Can designers act on these?        |
+| Component           | What to Check                      |
+| ------------------- | ---------------------------------- |
+| Archetype           | Does it match the data patterns?   |
+| Demographics        | Are they derived from actual data? |
+| Goals               | Are they specific and actionable?  |
+| Frustrations        | Do they include frequency counts?  |
+| Design implications | Can designers act on these?        |
 
 4. **Validate persona**
-   - Show to 3-5 real users: "Does this sound like you?"
-   - Cross-check with support tickets
-   - Verify against analytics data
+- Show to 3-5 real users: "Does this sound like you?"
+- Cross-check with support tickets
+- Verify against analytics data
 
 5. **Reference:** See `references/persona-methodology.md` for validity criteria
 
@@ -102,44 +107,48 @@ Use this skill when you need to:
 
 1. **Define scope**
 
-   | Element   | Description                    |
-   | --------- | ------------------------------ |
-   | Persona   | Which user type                |
-   | Goal      | What they're trying to achieve |
-   | Start     | Trigger that begins journey    |
-   | End       | Success criteria               |
-   | Timeframe | Hours/days/weeks               |
+| Element   | Description                    |
+| --------- | ------------------------------ |
+| Persona   | Which user type                |
+| Goal      | What they're trying to achieve |
+| Start     | Trigger that begins journey    |
+| End       | Success criteria               |
+| Timeframe | Hours/days/weeks               |
 
 2. **Gather journey data**
 
-   Sources:
-   - User interviews (ask "walk me through...")
-   - Session recordings
-   - Analytics (funnel, drop-offs)
-   - Support tickets
+Sources:
+- User interviews (ask "walk me through...")
+- Session recordings
+- Analytics (funnel, drop-offs)
+- Support tickets
 
 3. **Map the stages**
 
-   Typical B2B SaaS stages:
+Typical B2B SaaS stages:
 
-   ```
-   Awareness → Evaluation → Onboarding → Adoption → Advocacy
-   ```
+```
+
+Awareness → Evaluation → Onboarding → Adoption → Advocacy
+
+```
 
 4. **Fill in layers for each stage**
 
-   ```
-   Stage: [Name]
-   ├── Actions: What does user do?
-   ├── Touchpoints: Where do they interact?
-   ├── Emotions: How do they feel? (1-5)
-   ├── Pain Points: What frustrates them?
-   └── Opportunities: Where can we improve?
-   ```
+```
+
+Stage: [Name]
+├── Actions: What does user do?
+├── Touchpoints: Where do they interact?
+├── Emotions: How do they feel? (1-5)
+├── Pain Points: What frustrates them?
+└── Opportunities: Where can we improve?
+
+```
 
 5. **Identify opportunities**
 
-   Priority Score = Frequency × Severity × Solvability
+Priority Score = Frequency × Severity × Solvability
 
 6. **Reference:** See `references/journey-mapping-guide.md` for templates
 
@@ -153,47 +162,49 @@ Use this skill when you need to:
 
 1. **Define research questions**
 
-   Transform vague goals into testable questions:
+Transform vague goals into testable questions:
 
-   | Vague                 | Testable                                 |
-   | --------------------- | ---------------------------------------- |
-   | "Is it easy to use?"  | "Can users complete checkout in <3 min?" |
-   | "Do users like it?"   | "Will users choose Design A or B?"       |
-   | "Does it make sense?" | "Can users find settings without hints?" |
+| Vague                 | Testable                                 |
+| --------------------- | ---------------------------------------- |
+| "Is it easy to use?"  | "Can users complete checkout in <3 min?" |
+| "Do users like it?"   | "Will users choose Design A or B?"       |
+| "Does it make sense?" | "Can users find settings without hints?" |
 
 2. **Select method**
 
-   | Method             | Participants | Duration  | Best For         |
-   | ------------------ | ------------ | --------- | ---------------- |
-   | Moderated remote   | 5-8          | 45-60 min | Deep insights    |
-   | Unmoderated remote | 10-20        | 15-20 min | Quick validation |
-   | Guerrilla          | 3-5          | 5-10 min  | Rapid feedback   |
+| Method             | Participants | Duration  | Best For         |
+| ------------------ | ------------ | --------- | ---------------- |
+| Moderated remote   | 5-8          | 45-60 min | Deep insights    |
+| Unmoderated remote | 10-20        | 15-20 min | Quick validation |
+| Guerrilla          | 3-5          | 5-10 min  | Rapid feedback   |
 
 3. **Design tasks**
 
-   Good task format:
+Good task format:
 
-   ```
-   SCENARIO: "Imagine you're planning a trip to Paris..."
-   GOAL: "Book a hotel for 3 nights in your budget."
-   SUCCESS: "You see the confirmation page."
-   ```
+```
 
-   Task progression: Warm-up → Core → Secondary → Edge case → Free exploration
+SCENARIO: "Imagine you're planning a trip to Paris..."
+GOAL: "Book a hotel for 3 nights in your budget."
+SUCCESS: "You see the confirmation page."
+
+```
+
+Task progression: Warm-up → Core → Secondary → Edge case → Free exploration
 
 4. **Define success metrics**
 
-   | Metric          | Target       |
-   | --------------- | ------------ |
-   | Completion rate | >80%         |
-   | Time on task    | <2× expected |
-   | Error rate      | <15%         |
-   | Satisfaction    | >4/5         |
+| Metric          | Target       |
+| --------------- | ------------ |
+| Completion rate | >80%         |
+| Time on task    | <2× expected |
+| Error rate      | <15%         |
+| Satisfaction    | >4/5         |
 
 5. **Prepare moderator guide**
-   - Think-aloud instructions
-   - Non-leading prompts
-   - Post-task questions
+- Think-aloud instructions
+- Non-leading prompts
+- Post-task questions
 
 6. **Reference:** See `references/usability-testing-frameworks.md` for full guide
 
@@ -207,49 +218,51 @@ Use this skill when you need to:
 
 1. **Code the data**
 
-   Tag each data point:
-   - `[GOAL]` - What they want to achieve
-   - `[PAIN]` - What frustrates them
-   - `[BEHAVIOR]` - What they actually do
-   - `[CONTEXT]` - When/where they use product
-   - `[QUOTE]` - Direct user words
+Tag each data point:
+- `[GOAL]` - What they want to achieve
+- `[PAIN]` - What frustrates them
+- `[BEHAVIOR]` - What they actually do
+- `[CONTEXT]` - When/where they use product
+- `[QUOTE]` - Direct user words
 
 2. **Cluster similar patterns**
 
-   ```
-   User A: Uses daily, advanced features, shortcuts
-   User B: Uses daily, complex workflows, automation
-   User C: Uses weekly, basic needs, occasional
+```
 
-   Cluster 1: A, B (Power Users)
-   Cluster 2: C (Casual User)
-   ```
+User A: Uses daily, advanced features, shortcuts
+User B: Uses daily, complex workflows, automation
+User C: Uses weekly, basic needs, occasional
+
+Cluster 1: A, B (Power Users)
+Cluster 2: C (Casual User)
+
+```
 
 3. **Calculate segment sizes**
 
-   | Cluster        | Users | %   | Viability         |
-   | -------------- | ----- | --- | ----------------- |
-   | Power Users    | 18    | 36% | Primary persona   |
-   | Business Users | 15    | 30% | Primary persona   |
-   | Casual Users   | 12    | 24% | Secondary persona |
+| Cluster        | Users | %   | Viability         |
+| -------------- | ----- | --- | ----------------- |
+| Power Users    | 18    | 36% | Primary persona   |
+| Business Users | 15    | 30% | Primary persona   |
+| Casual Users   | 12    | 24% | Secondary persona |
 
 4. **Extract key findings**
 
-   For each theme:
-   - Finding statement
-   - Supporting evidence (quotes, data)
-   - Frequency (X/Y participants)
-   - Business impact
-   - Recommendation
+For each theme:
+- Finding statement
+- Supporting evidence (quotes, data)
+- Frequency (X/Y participants)
+- Business impact
+- Recommendation
 
 5. **Prioritize opportunities**
 
-   | Factor      | Score 1-5                  |
-   | ----------- | -------------------------- |
-   | Frequency   | How often does this occur? |
-   | Severity    | How much does it hurt?     |
-   | Breadth     | How many users affected?   |
-   | Solvability | Can we fix this?           |
+| Factor      | Score 1-5                  |
+| ----------- | -------------------------- |
+| Frequency   | How often does this occur? |
+| Severity    | How much does it hurt?     |
+| Breadth     | How many users affected?   |
+| Solvability | Can we fix this?           |
 
 6. **Reference:** See `references/persona-methodology.md` for analysis framework
 
@@ -268,6 +281,7 @@ Generates data-driven personas from user research data.
 **Sample Output:**
 
 ```
+
 ============================================================
 PERSONA: Alex the Power User
 ============================================================
@@ -278,27 +292,28 @@ Archetype: Power User
 Quote: "I need tools that can keep up with my workflow"
 
 👤 Demographics:
-  • Age Range: 25-34
-  • Location Type: Urban
-  • Tech Proficiency: Advanced
+• Age Range: 25-34
+• Location Type: Urban
+• Tech Proficiency: Advanced
 
 🎯 Goals & Needs:
-  • Complete tasks efficiently
-  • Automate workflows
-  • Access advanced features
+• Complete tasks efficiently
+• Automate workflows
+• Access advanced features
 
 😤 Frustrations:
-  • Slow loading times (14/20 users)
-  • No keyboard shortcuts
-  • Limited API access
+• Slow loading times (14/20 users)
+• No keyboard shortcuts
+• Limited API access
 
 💡 Design Implications:
-  → Optimize for speed and efficiency
-  → Provide keyboard shortcuts and power features
-  → Expose API and automation capabilities
+→ Optimize for speed and efficiency
+→ Provide keyboard shortcuts and power features
+→ Expose API and automation capabilities
 
 📈 Data: Based on 45 users
-    Confidence: High
+Confidence: High
+
 ```
 
 **Archetypes Generated:**
@@ -418,6 +433,7 @@ Detailed reference guides in `references/`:
 
 - **UI Design System** (`product-team/ui-design-system/`) — Research findings inform design system decisions
 - **Product Manager Toolkit** (`product-team/product-manager-toolkit/`) — Customer interview analysis complements persona research
+```
 
 > **Creator:** Product Team
 > **License:** MIT

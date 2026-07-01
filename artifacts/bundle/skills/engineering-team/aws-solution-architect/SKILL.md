@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # AWS Solution Architect
 
 Design scalable, cost-effective AWS architectures for startups with infrastructure-as-code templates.

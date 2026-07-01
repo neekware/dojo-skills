@@ -203,4 +203,6 @@ You don't need all metrics to run a diagnostic. The tool handles partial data:
 ## References
 
 - `references/health-benchmarks.md` — benchmarks by stage (Seed, A, B, C)
-- `scripts/health_scorer.py` — CLI scoring tool with traffic light output
+- `scripts/health_scorer.py.md` — CLI scoring tool with traffic light output
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.

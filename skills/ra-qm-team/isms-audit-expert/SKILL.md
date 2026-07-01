@@ -200,6 +200,8 @@ Verify operational readiness:
 
 ### scripts/
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 | Script                    | Purpose                         | Usage                                                                  |
 | ------------------------- | ------------------------------- | ---------------------------------------------------------------------- |
 | `isms_audit_scheduler.py` | Generate risk-based audit plans | `python scripts/isms_audit_scheduler.py --year 2025 --format markdown` |

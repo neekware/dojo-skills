@@ -14,6 +14,8 @@ triggers:
   - audit schedule
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # QMS Audit Expert
 
 ISO 13485 internal audit methodology for medical device quality management systems.

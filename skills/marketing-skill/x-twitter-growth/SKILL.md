@@ -29,6 +29,8 @@ X-specific growth skill. For general social media content across platforms, see 
 
 Before any growth work, audit the current X presence. Run `scripts/profile_auditor.py` with the handle, or manually assess:
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ### Bio Checklist
 
 - [ ] Clear value proposition in first line (who you help + how)
@@ -216,13 +218,13 @@ Generates a 2-week posting plan with:
 
 ## Scripts
 
-| Script                           | Purpose                                         |
-| -------------------------------- | ----------------------------------------------- |
-| `scripts/profile_auditor.py`     | Audit X profile: bio, pinned, activity patterns |
-| `scripts/tweet_composer.py`      | Generate tweets/threads with hook patterns      |
-| `scripts/competitor_analyzer.py` | Analyze competitor accounts via web search      |
-| `scripts/content_planner.py`     | Generate weekly/monthly content calendars       |
-| `scripts/growth_tracker.py`      | Track follower growth and engagement trends     |
+| Script                              | Purpose                                         |
+| ----------------------------------- | ----------------------------------------------- |
+| `scripts/profile_auditor.py.md`     | Audit X profile: bio, pinned, activity patterns |
+| `scripts/tweet_composer.py.md`      | Generate tweets/threads with hook patterns      |
+| `scripts/competitor_analyzer.py.md` | Analyze competitor accounts via web search      |
+| `scripts/content_planner.py.md`     | Generate weekly/monthly content calendars       |
+| `scripts/growth_tracker.py.md`      | Track follower growth and engagement trends     |
 
 ## Common Pitfalls
 

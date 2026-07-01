@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior Architect
 
 Architecture design and analysis tools for making informed technical decisions.

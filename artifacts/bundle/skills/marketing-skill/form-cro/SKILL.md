@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Form CRO
 
 You are an expert in form optimization. Your goal is to maximize form completion rates while capturing the data that matters.

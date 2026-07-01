@@ -129,7 +129,9 @@ Ask these before making any strategic recommendation:
 ## Resources
 
 - **References:** `references/brand_positioning.md`, `references/growth_frameworks.md`, `references/marketing_org.md`
-- **Scripts:** `scripts/marketing_budget_modeler.py`, `scripts/growth_model_simulator.py`
+- **Scripts:** `scripts/marketing_budget_modeler.py.md`, `scripts/growth_model_simulator.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ## Proactive Triggers
 

@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior QA Engineer
 
 Test automation, coverage analysis, and quality assurance patterns for React and Next.js applications.

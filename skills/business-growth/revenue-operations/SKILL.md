@@ -186,6 +186,8 @@ Use this workflow for your weekly pipeline inspection cadence.
    python scripts/pipeline_analyzer.py --input current_pipeline.json --format text
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 3. **Cross-check output totals** against your CRM source system to confirm data integrity.
 
 4. **Review key indicators:**

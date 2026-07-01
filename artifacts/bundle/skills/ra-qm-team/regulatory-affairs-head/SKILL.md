@@ -413,6 +413,8 @@ III  IIb  Check   Class I
 | ------------------------------------------------------ | ------------------------------------- | ------------------------------ |
 | [regulatory_tracker.py](scripts/regulatory_tracker.py) | Track submission status and timelines | `python regulatory_tracker.py` |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 **Regulatory Tracker Features:**
 
 - Track multiple submissions across markets

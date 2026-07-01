@@ -32,6 +32,8 @@ python3 scripts/interview_planner.py --role "Product Manager" --level mid --json
 4. Review for bias controls before rollout.
 5. Recalibrate quarterly using hiring outcome data.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## References
 
 - `references/interview-frameworks.md`

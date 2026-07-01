@@ -57,6 +57,8 @@ Use this skill when you need to:
    python scripts/design_token_generator.py "#0066CC" modern json
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 3. **Review generated categories**
    - Colors: primary, secondary, neutral, semantic, surface
    - Typography: fontFamily, fontSize, fontWeight, lineHeight

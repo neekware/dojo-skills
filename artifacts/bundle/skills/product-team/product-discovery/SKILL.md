@@ -113,7 +113,9 @@ Suggested 10-day structure:
 
 ## Tooling
 
-### `scripts/assumption_mapper.py`
+### `scripts/assumption_mapper.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 CLI utility that:
 

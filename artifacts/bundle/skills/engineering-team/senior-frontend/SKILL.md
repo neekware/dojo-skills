@@ -25,6 +25,8 @@ Generate a new Next.js or React project with TypeScript, Tailwind CSS, and best 
    python scripts/frontend_scaffolder.py my-app --template nextjs
    ```
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 2. Add optional features (auth, api, forms, testing, storybook):
 
    ```bash

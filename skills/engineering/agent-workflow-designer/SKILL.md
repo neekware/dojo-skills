@@ -61,10 +61,12 @@ Detailed templates: `references/workflow-patterns.md`
 ## Recommended Workflow
 
 1. Select pattern based on dependency shape and risk profile.
-2. Scaffold config via `scripts/workflow_scaffolder.py`.
+2. Scaffold config via `scripts/workflow_scaffolder.py.md`.
 3. Define handoff contract fields for every edge.
 4. Add retry/timeouts and output validation gates.
 5. Dry-run with small context budgets before scaling.
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ---
 

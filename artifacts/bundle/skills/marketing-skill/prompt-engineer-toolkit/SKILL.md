@@ -74,6 +74,8 @@ python3 scripts/prompt_versioner.py changelog --name support_classifier
   - Manages prompt history (`add`, `list`, `diff`, `changelog`)
   - Stores metadata and content snapshots locally
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## Pitfalls, Best Practices & Review Checklist
 
 **Avoid these mistakes:**

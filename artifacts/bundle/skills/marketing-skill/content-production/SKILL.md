@@ -158,6 +158,8 @@ Draft exists. Run this in order.
 
 Run `scripts/content_scorer.py` on the draft. Target score: 70+.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 Manual checks:
 
 - Average sentence length: aim for 15-20 words, mix it up

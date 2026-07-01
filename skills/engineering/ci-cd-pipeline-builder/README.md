@@ -18,8 +18,8 @@ python3 scripts/pipeline_generator.py \
 
 ## Included Tools
 
-- `scripts/stack_detector.py`: repository signal detection with JSON/text output
-- `scripts/pipeline_generator.py`: generate GitHub/GitLab CI YAML from detection payload
+- `scripts/stack_detector.py.md`: repository signal detection with JSON/text output
+- `scripts/pipeline_generator.py.md`: generate GitHub/GitLab CI YAML from detection payload
 
 ## References
 

@@ -102,7 +102,9 @@ See:
 
 ## Tooling
 
-### `scripts/metrics_calculator.py`
+### `scripts/metrics_calculator.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 CLI utility for:
 

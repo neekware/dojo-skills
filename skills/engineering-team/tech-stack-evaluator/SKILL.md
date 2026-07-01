@@ -3,6 +3,8 @@ name: tech-stack-evaluator
 description: Technology stack evaluation and comparison with TCO analysis, security assessment, and ecosystem health scoring. Use when comparing frameworks, evaluating technology stacks, calculating total cost of ownership, assessing migration paths, or analyzing ecosystem viability.
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Technology Stack Evaluator
 
 Evaluate and compare technologies, frameworks, and cloud providers with data-driven analysis and actionable recommendations.

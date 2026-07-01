@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Atlassian Confluence Expert
 
 Master-level expertise in Confluence space management, documentation architecture, content creation, macros, templates, and collaborative knowledge management.

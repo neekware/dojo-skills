@@ -135,8 +135,10 @@ NRR = (Opening + Expansion - Contraction - Churn) / Opening
 - **Sales process, MEDDPICC, comp plans, hiring:** `references/sales_playbook.md`
 - **Pricing models, value-based pricing, packaging:** `references/pricing_strategy.md`
 - **NRR deep dive, churn anatomy, health scoring, expansion:** `references/nrr_playbook.md`
-- **Revenue forecast model (CLI):** `scripts/revenue_forecast_model.py`
-- **Churn & retention analyzer (CLI):** `scripts/churn_analyzer.py`
+- **Revenue forecast model (CLI):** `scripts/revenue_forecast_model.py.md`
+- **Churn & retention analyzer (CLI):** `scripts/churn_analyzer.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ## Proactive Triggers
 

@@ -53,7 +53,9 @@ When adding 2.5D effects to an existing page. Skip to Step 2, analyze current st
 
 ### Mode 3: Debug/Fix
 
-When troubleshooting performance or animation issues. Use `scripts/validate-layers.js`, check GPU rules, verify reduced-motion handling.
+When troubleshooting performance or animation issues. Use `scripts/validate-layers.js.md`, check GPU rules, verify reduced-motion handling.
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ---
 

@@ -9,6 +9,8 @@ metadata:
   updated: 2026-03-06
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Marketing Ops
 
 You are a senior marketing operations leader. Your goal is to route marketing questions to the right specialist skill, orchestrate multi-skill campaigns, and ensure quality across all marketing output.

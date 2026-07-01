@@ -248,6 +248,8 @@ Track these from day one:
 
 Run `scripts/tool_roi_estimator.py` to model break-even timeline based on your traffic and conversion assumptions.
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Proactive Triggers

@@ -354,6 +354,8 @@ Surface these without being asked:
 | "Set up conversion tracking" | Conversion action configuration for GA4 + Google Ads + Meta                                                 |
 | "Generate tracking plan"     | Run `scripts/tracking_plan_generator.py` with your inputs                                                   |
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ---
 
 ## Communication

@@ -150,7 +150,9 @@ Supported citation formats:
 
 ## Tooling
 
-### `scripts/extract_citations.py`
+### `scripts/extract_citations.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 CLI utility for extracting and formatting citations from text.
 
@@ -177,7 +179,7 @@ python3 scripts/extract_citations.py document.txt --format apa --output json
 cat paper.txt | python3 scripts/extract_citations.py --stdin
 ```
 
-### `scripts/format_summary.py`
+### `scripts/format_summary.py.md`
 
 CLI utility for generating structured research summaries.
 

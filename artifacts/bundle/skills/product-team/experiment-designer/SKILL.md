@@ -89,7 +89,9 @@ See:
 
 ## Tooling
 
-### `scripts/sample_size_calculator.py`
+### `scripts/sample_size_calculator.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 Computes required sample size (per variant and total) from:
 

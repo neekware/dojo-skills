@@ -409,6 +409,8 @@ Status page: {link}
 # Classify the incident
 echo '{"description": "Users reporting 500 errors, database connections timing out", "affected_users": "80%", "business_impact": "high"}' | python scripts/incident_classifier.py
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Reconstruct timeline from logs
 python scripts/timeline_reconstructor.py --input assets/db_incident_events.json --output timeline.md
 

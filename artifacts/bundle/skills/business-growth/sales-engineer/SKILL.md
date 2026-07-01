@@ -130,7 +130,9 @@ python -c "import json; p=json.load(open('phase4_poc_plan.json')); print('Go/No-
 
 ### 1. RFP Response Analyzer
 
-**Script:** `scripts/rfp_response_analyzer.py`
+**Script:** `scripts/rfp_response_analyzer.py.md`
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 **Purpose:** Parse RFP/RFI requirements, score coverage, identify gaps, and generate bid/no-bid recommendations.
 
@@ -157,7 +159,7 @@ python scripts/rfp_response_analyzer.py --help
 
 ### 2. Competitive Matrix Builder
 
-**Script:** `scripts/competitive_matrix_builder.py`
+**Script:** `scripts/competitive_matrix_builder.py.md`
 
 **Purpose:** Generate feature comparison matrices, calculate competitive scores, identify differentiators and vulnerabilities.
 
@@ -176,7 +178,7 @@ python scripts/competitive_matrix_builder.py competitive_data.json --format json
 
 ### 3. POC Planner
 
-**Script:** `scripts/poc_planner.py`
+**Script:** `scripts/poc_planner.py.md`
 
 **Purpose:** Generate structured POC plans with timeline, resource allocation, success criteria, and evaluation scorecards.
 

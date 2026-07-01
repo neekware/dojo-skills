@@ -279,6 +279,8 @@ Coordinated Public Disclosure
 
 ### scripts/
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 | Script                      | Purpose                                                      |
 | --------------------------- | ------------------------------------------------------------ |
 | `fda_submission_tracker.py` | Track 510(k)/PMA/De Novo submission milestones and timelines |

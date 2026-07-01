@@ -47,11 +47,13 @@ python3 scripts/runbook_generator.py payments-api --owner platform --output docs
 
 ## Recommended Workflow
 
-1. Generate the initial skeleton with `scripts/runbook_generator.py`.
+1. Generate the initial skeleton with `scripts/runbook_generator.py.md`.
 2. Fill in service-specific commands and URLs.
 3. Add verification checks and rollback triggers.
 4. Dry-run in staging.
 5. Store runbook in version control near service code.
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ---
 

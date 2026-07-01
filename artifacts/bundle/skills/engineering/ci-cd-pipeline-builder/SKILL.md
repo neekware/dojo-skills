@@ -75,6 +75,8 @@ python3 scripts/pipeline_generator.py --repo . --platform gitlab --output .gitla
   - Generates GitHub/GitLab YAML from detection payload
   - Writes to stdout or `--output`
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 ## Common Pitfalls
 
 1. Copying a Node pipeline into Python/Go repos

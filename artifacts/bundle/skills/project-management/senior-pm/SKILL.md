@@ -260,7 +260,9 @@ Reference: `assets/expected_output.json`
    python3 scripts/project_health_dashboard.py current_portfolio.json
    ```
 
-   ⚠️ If any project composite score <60 or a critical data field is missing, STOP and resolve data integrity issues before proceeding.
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
+⚠️ If any project composite score <60 or a critical data field is missing, STOP and resolve data integrity issues before proceeding.
 
 2. **Risk Assessment Update**
 

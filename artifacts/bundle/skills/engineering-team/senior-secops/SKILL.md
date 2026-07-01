@@ -1,3 +1,5 @@
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Senior SecOps Engineer
 
 Complete toolkit for Security Operations including vulnerability management, compliance verification, secure coding practices, and security automation.

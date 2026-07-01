@@ -3,6 +3,8 @@ name: monorepo-navigator
 description: Monorepo Navigator
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Monorepo Navigator
 
 **Tier:** POWERFUL  

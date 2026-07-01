@@ -21,8 +21,8 @@ python3 scripts/prompt_versioner.py add \
 
 ## Included Tools
 
-- `scripts/prompt_tester.py`: A/B testing with per-case scoring and aggregate winner
-- `scripts/prompt_versioner.py`: prompt history (`add`, `list`, `diff`, `changelog`) in local JSONL store
+- `scripts/prompt_tester.py.md`: A/B testing with per-case scoring and aggregate winner
+- `scripts/prompt_versioner.py.md`: prompt history (`add`, `list`, `diff`, `changelog`) in local JSONL store
 
 ## References
 

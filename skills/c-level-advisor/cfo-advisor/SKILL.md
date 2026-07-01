@@ -97,9 +97,11 @@ python scripts/fundraising_model.py
 - `references/financial_planning.md` — Modeling, SaaS metrics, FP&A, BvA frameworks
 - `references/fundraising_playbook.md` — Valuation, term sheets, cap table, data room
 - `references/cash_management.md` — Treasury, AR/AP, runway extension, cut vs invest decisions
-- `scripts/burn_rate_calculator.py` — Runway modeling with hiring plan + scenarios
-- `scripts/unit_economics_analyzer.py` — Per-cohort LTV, per-channel CAC
-- `scripts/fundraising_model.py` — Dilution, cap table, multi-round projections
+- `scripts/burn_rate_calculator.py.md` — Runway modeling with hiring plan + scenarios
+- `scripts/unit_economics_analyzer.py.md` — Per-cohort LTV, per-channel CAC
+- `scripts/fundraising_model.py.md` — Dilution, cap table, multi-round projections
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 ## Proactive Triggers
 

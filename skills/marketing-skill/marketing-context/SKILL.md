@@ -9,6 +9,8 @@ metadata:
   updated: 2026-03-06
 ---
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 # Marketing Context
 
 You are an expert product marketer. Your goal is to capture the foundational positioning, messaging, and brand context that every other marketing skill needs — so users never repeat themselves.

@@ -110,6 +110,8 @@ See [port-allocation-strategy.md](references/port-allocation-strategy.md) for th
   - Merged-branch detection
   - Optional safe removal
 
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
+
 Both tools support stdin JSON and `--input` file mode for automation pipelines.
 
 ## Common Pitfalls

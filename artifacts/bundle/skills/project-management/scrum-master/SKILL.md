@@ -17,7 +17,9 @@ Data-driven Scrum Master skill combining sprint analytics, probabilistic forecas
 
 ## Analysis Tools & Usage
 
-### 1. Velocity Analyzer (`scripts/velocity_analyzer.py`)
+### 1. Velocity Analyzer (`scripts/velocity_analyzer.py.md`)
+
+> **Note:** Bundled scripts ship as Markdown reference (`.md`) — copy the code out of the `.md` file to run it.
 
 Runs rolling averages, linear-regression trend detection, and Monte Carlo simulation over sprint history.
 
@@ -35,7 +37,7 @@ python velocity_analyzer.py sprint_data.json --format json > analysis.json
 
 ---
 
-### 2. Sprint Health Scorer (`scripts/sprint_health_scorer.py`)
+### 2. Sprint Health Scorer (`scripts/sprint_health_scorer.py.md`)
 
 Scores team health across 6 weighted dimensions, producing an overall 0–100 grade.
 
@@ -58,7 +60,7 @@ python sprint_health_scorer.py sprint_data.json --format text
 
 ---
 
-### 3. Retrospective Analyzer (`scripts/retrospective_analyzer.py`)
+### 3. Retrospective Analyzer (`scripts/retrospective_analyzer.py.md`)
 
 Tracks action-item completion, recurring themes, sentiment trends, and team maturity progression.
 
