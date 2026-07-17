@@ -396,6 +396,6 @@ python3 scripts/generate_summary.py <chapter_info>
 
 > **Creator:** op7418
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `multimedia`
 > **Original Path:** `multimedia/youtube-clipper`

@@ -155,6 +155,6 @@ All scripts accept JSON input files. See `assets/sample_financial_data.json` for
 
 > **Creator:** Finance
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `finance`
 > **Original Path:** `finance/financial-analyst`

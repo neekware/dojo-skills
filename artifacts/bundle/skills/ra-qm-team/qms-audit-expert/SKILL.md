@@ -319,6 +319,6 @@ Track audit program effectiveness:
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/qms-audit-expert`

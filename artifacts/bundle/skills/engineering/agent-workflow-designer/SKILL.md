@@ -81,6 +81,6 @@ Detailed templates: `references/workflow-patterns.md`
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/agent-workflow-designer`

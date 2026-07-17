@@ -76,6 +76,6 @@ python3 scripts/env_auditor.py /path/to/repo --json
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/env-secrets-manager`

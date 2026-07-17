@@ -127,6 +127,6 @@ See `references/discovery-frameworks.md` for framework details.
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/product-discovery`

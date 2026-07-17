@@ -145,6 +145,6 @@ Then layer advanced behavior (matrix builds, security scans, deploy gates).
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/ci-cd-pipeline-builder`

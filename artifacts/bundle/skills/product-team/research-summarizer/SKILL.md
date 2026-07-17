@@ -279,6 +279,6 @@ clawhub install cs-research-summarizer
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/research-summarizer`

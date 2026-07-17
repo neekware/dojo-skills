@@ -306,6 +306,6 @@ This comprehensive observability design skill enables organizations to build rob
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/observability-designer`

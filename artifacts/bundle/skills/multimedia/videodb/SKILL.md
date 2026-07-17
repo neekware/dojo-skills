@@ -373,6 +373,6 @@ For complete capture workflow, see [reference/capture.md](reference/capture.md).
 
 > **Creator:** VideoDB
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `multimedia`
 > **Original Path:** `multimedia/videodb`

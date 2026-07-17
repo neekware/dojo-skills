@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * ehAyeSkills Curation Pipeline
+ * dojo-skills Curation Pipeline
  *
  * Aggregates skills from multiple upstream repos into one canonical,
  * deduplicated, validated repository under Neekware control.
@@ -15,7 +15,7 @@
  *     neekware/awesome-agent-skills       → forked from VoltAgent
  *
  *   Output
- *     neekware/ehaye-skills               → curated, validated, deduplicated
+ *     neekware/dojo-skills               → curated, validated, deduplicated
  *
  * The script builds from the Neekware forks and additionally checks whether
  * those forks are behind their true upstream origins.
@@ -411,10 +411,10 @@ function copyDir(src, dest, metadata = {}) {
   }
 }
 
-// Buckets owned by ehAyeSkills (not sourced from any upstream).
+// Buckets owned by dojo-skills (not sourced from any upstream).
 // The curate script never deletes these — they are our own skills.
 const OWN_BUCKETS = new Set([
-  'ehaye',
+  'dojo',
 ]);
 
 function extractSkills() {
@@ -583,7 +583,7 @@ function extractCatalog() {
   // Start with our own curated skills repo + the official Agent Skills
   // spec repo — always first in the catalog, manually maintained.
   const catalog = [
-    { repo: 'neekware/ehaye-skills', description: 'ehAye Curated Skills (patent-prep, trademark-prep, and more)' },
+    { repo: 'neekware/dojo-skills', description: 'Dojo Curated Skills (patent-prep, trademark-prep, and more)' },
     { repo: 'agentskills/agentskills', description: 'Agent Skills — official open standard, specification, and reference library' },
   ];
 
@@ -598,7 +598,7 @@ function extractCatalog() {
       err(`Catalog parsing failed: ${e.message}`);
     }
   } else {
-    warn('awesome-agent-skills README.md not found — catalog will only contain ehAyeSkills');
+    warn('awesome-agent-skills README.md not found — catalog will only contain dojo-skills');
   }
 
   fs.writeFileSync(outputFile, JSON.stringify(catalog, null, 2));
@@ -660,13 +660,13 @@ function commitAndPush() {
 
   info('Pushing to origin...');
   exec('git push origin HEAD', { cwd: ROOT_DIR });
-  ok('Pushed to neekware/ehaye-skills');
+  ok('Pushed to neekware/dojo-skills');
 }
 
 // ── Main ────────────────────────────────────────────────────────────
 
 function main() {
-  console.log(`\n${c.bold}${c.cyan}🧩 ehAyeSkills Curation Pipeline${c.reset}`);
+  console.log(`\n${c.bold}${c.cyan}🧩 dojo-skills Curation Pipeline${c.reset}`);
   console.log('════════════════════════════════════');
 
   // Verify git is available

@@ -100,6 +100,6 @@ Output: `📊 Memory: {{n}}/200 lines | {{count}} rules | {{status_emoji}} {{sta
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/self-improving-agent/skills/status`

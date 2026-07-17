@@ -178,6 +178,6 @@ Creates `api-client-regen/SKILL.md` with:
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/self-improving-agent/skills/extract`

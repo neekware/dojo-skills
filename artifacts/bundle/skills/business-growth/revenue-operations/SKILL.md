@@ -276,6 +276,6 @@ Combine all three tools for a comprehensive QBR analysis.
 
 > **Creator:** Business Growth
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `business-growth`
 > **Original Path:** `business-growth/revenue-operations`

@@ -313,6 +313,6 @@ This skill provides the foundation for designing robust, scalable multi-agent sy
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/agent-designer`

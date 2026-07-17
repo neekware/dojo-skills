@@ -79,6 +79,6 @@ python {skill_path}/scripts/session_manager.py --update {session-id} --state eva
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/agenthub/skills/eval`

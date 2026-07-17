@@ -335,8 +335,8 @@ Missing maintenance deadlines causes the registration to be cancelled.
 - Monitor your email for 12-18 months after filing — missing an office action deadline can abandon
   the application.
 
-> **Creator:** Ehaye
+> **Creator:** Dojo
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/us-trademark`
+> **Source Repo:** `neekware/dojo-skills`
+> **Source Bucket:** `dojo`
+> **Original Path:** `dojo/us-trademark`

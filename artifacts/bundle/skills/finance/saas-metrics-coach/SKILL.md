@@ -158,6 +158,6 @@ python scripts/unit_economics_simulator.py --mrr 50000 --growth 10 --churn 3 --c
 
 > **Creator:** Abbas Mir
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `finance`
 > **Original Path:** `finance/saas-metrics-coach`

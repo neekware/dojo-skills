@@ -512,6 +512,6 @@ This Migration Architect skill provides a comprehensive framework for planning, 
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/migration-architect`

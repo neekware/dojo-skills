@@ -265,8 +265,8 @@ For founders based in Canada or targeting both markets:
 - The 1-year grace period allows you to file within 12 months of your own public disclosure, but
   filing before any disclosure is always safer.
 
-> **Creator:** Ehaye
+> **Creator:** Dojo
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/canada-patent`
+> **Source Repo:** `neekware/dojo-skills`
+> **Source Bucket:** `dojo`
+> **Original Path:** `dojo/canada-patent`

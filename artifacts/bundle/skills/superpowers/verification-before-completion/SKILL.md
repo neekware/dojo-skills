@@ -143,6 +143,6 @@ This is non-negotiable.
 
 > **Creator:** Jesse Vincent
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `superpowers`
 > **Original Path:** `superpowers/verification-before-completion`

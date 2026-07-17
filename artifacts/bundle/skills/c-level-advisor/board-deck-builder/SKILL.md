@@ -188,6 +188,6 @@ Never bury it. Boards find out eventually. Finding out late makes it worse.
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/board-deck-builder`

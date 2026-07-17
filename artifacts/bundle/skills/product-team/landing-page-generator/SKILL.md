@@ -200,6 +200,6 @@ Inject `FAQPage` JSON-LD via `<script type="application/ld+json" dangerouslySetI
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/landing-page-generator`

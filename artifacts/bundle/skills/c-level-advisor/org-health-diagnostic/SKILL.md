@@ -195,6 +195,6 @@ You don't need all metrics to run a diagnostic. The tool handles partial data:
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/org-health-diagnostic`

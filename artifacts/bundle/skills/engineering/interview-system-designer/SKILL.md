@@ -57,6 +57,6 @@ python3 scripts/interview_planner.py --role "Product Manager" --level mid --json
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/interview-system-designer`

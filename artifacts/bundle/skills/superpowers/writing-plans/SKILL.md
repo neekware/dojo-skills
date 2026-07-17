@@ -178,6 +178,6 @@ After saving the plan, offer execution choice:
 
 > **Creator:** Jesse Vincent
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `superpowers`
 > **Original Path:** `superpowers/writing-plans`

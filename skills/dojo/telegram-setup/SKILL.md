@@ -1,18 +1,18 @@
 ---
 name: telegram-setup
-description: Help a user set up Telegram for ehAye Dojo. Default to Personal private bots (recommended). Group setup is advanced for teams/observers/demos.
+description: Help a user set up Telegram for Dojo Dojo. Default to Personal private bots (recommended). Group setup is advanced for teams/observers/demos.
 version: 3.0.0
 category: guides
 tags: telegram, bot, setup, dojo, notifications, chatops, voice, remote, personal, pairing
 ---
 
-# Telegram Setup for ehAye Dojo
+# Telegram Setup for Dojo Dojo
 
 This skill is your playbook when a user asks Dojo to set up Telegram on their machine and you cannot see the project source. Walk them through the **Personal bots** flow first — it is the recommended product path. Only fall back to **Group setup** if they explicitly want shared/team visibility.
 
 ## Mental model (read first)
 
-ehAye Engine has **two Telegram flavors**. Only one is active at a time:
+Dojo Engine has **two Telegram flavors**. Only one is active at a time:
 
 | Flavor                      | When to use                                | Listens to                                       | Sends to                 |
 | --------------------------- | ------------------------------------------ | ------------------------------------------------ | ------------------------ |
@@ -39,7 +39,7 @@ If you ever see PIN/wake-word in screenshots or older docs, treat them as out-of
 After setup, each lane the user configures will have:
 
 - one Telegram bot they created via BotFather
-- the bot **paired** to their personal Telegram account via a one-time `/ehaye:pair <code>` message
+- the bot **paired** to their personal Telegram account via a one-time `/dojo:pair <code>` message
 - Dojo accepting inbound only from that paired private chat, and sending outbound to that same paired chat
 
 No groups. No admin rights. No privacy-mode toggles. No chat ID hunting. No `getUpdates`.
@@ -61,7 +61,7 @@ For **each lane** the user wants (start with Primary):
    - Treat it like a password. Do not echo it in chat. Don’t commit it.
 
 4. **Open Dojo Settings**
-   - `ehAye Engine → Settings → Remote Access & Notifications → Telegram`.
+   - `Dojo Engine → Settings → Remote Access & Notifications → Telegram`.
    - Make sure the `Personal bots` card is selected (it shows the small green checkmark).
 
 5. **Paste the token**
@@ -69,9 +69,9 @@ For **each lane** the user wants (start with Primary):
    - Click `Connect`.
 
 6. **Pair the bot**
-   - Dojo shows a pairing dialog with a command like `/ehaye:pair 482913`.
+   - Dojo shows a pairing dialog with a command like `/dojo:pair 482913`.
    - The dialog has `Open bot in Telegram` and a copy icon.
-   - In Telegram, open the new bot and send the exact `/ehaye:pair <code>`.
+   - In Telegram, open the new bot and send the exact `/dojo:pair <code>`.
    - Return to Dojo and click `Check pairing`.
    - On success Dojo saves the private chat and shows `Connected to <Name> (@username)` in green.
 
@@ -106,7 +106,7 @@ Once a lane is paired, these commands work in that bot chat:
 
 - Dojo verifies the bot token via Telegram `getMe`.
 - Dojo generates a 6-digit pairing code.
-- Dojo polls bot updates and looks for a private message from a real Telegram user whose text is exactly `/ehaye:pair <code>`.
+- Dojo polls bot updates and looks for a private message from a real Telegram user whose text is exactly `/dojo:pair <code>`.
 - It stores `chatId`, `userId`, bot username, and pairedAt.
 - Inbound messages are then accepted only when: token matches, chat type is private, chat ID matches, and sender user ID matches.
 - Outbound goes to the same paired chat.
@@ -130,8 +130,8 @@ High level:
 2. **Disable privacy mode** — BotFather → `/setprivacy` → select the bot → Disable.
    - If the bot was already in a group, remove and re-add it. Telegram only applies the new privacy setting on re-join.
 3. **Create two groups** in Telegram:
-   - `ehAye Dojo (P)` for Primary
-   - `ehAye Dojo (S)` for Secondary
+   - `Dojo Dojo (P)` for Primary
+   - `Dojo Dojo (S)` for Secondary
 4. **Add the bot to both groups** and **promote to admin**. Bot needs to read messages and post replies.
 5. **Get each chat ID** (negative `-100…`). Two reliable methods:
    - Send a message in the group, then open:
@@ -152,7 +152,7 @@ High level:
 - Public group: anyone can search/join. Dojo will show a one-time informational notice and continue working — the user is responsible for membership.
 - If the user wants the group to be read-only for everyone except themselves and the bot, set group permissions accordingly.
 
-ehAye Engine no longer enforces a PIN or wake-word for Telegram commands. Trust is delegated to Telegram group membership/permissions.
+Dojo Engine no longer enforces a PIN or wake-word for Telegram commands. Trust is delegated to Telegram group membership/permissions.
 
 ---
 
@@ -173,12 +173,12 @@ Ask: “Are you setting this up for just you, or do you want others to see/use D
 | Pairing never completes                           | Wrong bot opened in Telegram, code mistyped, or code expired         | Click `Connect` again to get a fresh code; ensure the bot username in the dialog matches the bot in Telegram                |
 | Pairing succeeds but bot ignores messages         | Lane Telegram is off (`primaryTelegram`/`secondaryTelegram`)         | Send `3` in the bot chat (or `telegram on`); or toggle in Settings                                                          |
 | Personal bot suddenly silent                      | Master `Enabled` is off, or mode switched to `Group setup`           | Re-enable master switch; reselect `Personal bots`                                                                           |
-| Group bot replies but UI never showed the message | A stale ehAyeEngine process is running from an old install/dev build | Quit `/Applications/ehAyeEngine.app` (and its sidecar) and any older dev backends; only one Telegram process should be live |
+| Group bot replies but UI never showed the message | A stale DojoWorkspace process is running from an old install/dev build | Quit `/Applications/DojoWorkspace.app` (and its sidecar) and any older dev backends; only one Telegram process should be live |
 | Group setup test message fails                    | Bot is not in the group, not an admin, or wrong chat ID              | Re-add bot as admin, recheck chat ID via `getUpdates`                                                                       |
 | Group bot reads `/commands` only                  | Privacy mode is still enabled                                        | BotFather → `/setprivacy` → Disable, then remove and re-add the bot to the group                                            |
-| User reports two messages on each reply           | Both Personal and Group were briefly enabled by old code             | Confirm there’s only one ehAyeEngine process; switch mode and save once to settle settings                                  |
+| User reports two messages on each reply           | Both Personal and Group were briefly enabled by old code             | Confirm there’s only one DojoWorkspace process; switch mode and save once to settle settings                                  |
 
-If something’s still wrong: look at `temp/ehaye/logs/be/ehaye-d-be-*.log`. Telegram lines are prefixed `📨 TelegramService`. Confirm there’s only one backend process talking to Telegram.
+If something’s still wrong: look at `temp/dojo/logs/be/dojo-d-be-*.log`. Telegram lines are prefixed `📨 TelegramService`. Confirm there’s only one backend process talking to Telegram.
 
 ---
 
@@ -192,7 +192,7 @@ If something’s still wrong: look at `temp/ehaye/logs/be/ehaye-d-be-*.log`. Tel
 
 ---
 
-## Optional: Telegram for ehAye Portal
+## Optional: Telegram for Dojo Portal
 
 If a user also wants Portal alerts (separate product from Dojo):
 

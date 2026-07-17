@@ -303,6 +303,6 @@ Most founders are at Level 0. Level 2 is a reasonable target. Level 3 is a strat
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/founder-coach`

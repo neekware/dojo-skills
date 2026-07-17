@@ -371,6 +371,6 @@ python3 scripts/auth_setup_guide.py --scopes gmail,drive,calendar,sheets
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/google-workspace-cli`

@@ -128,6 +128,6 @@ Output format defaults: tables for prioritization, bullet lists for options, pro
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/content-strategy`

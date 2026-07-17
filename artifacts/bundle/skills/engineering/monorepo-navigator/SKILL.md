@@ -98,6 +98,6 @@ Also see `references/monorepo-patterns.md` for common architecture and CI patter
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/monorepo-navigator`

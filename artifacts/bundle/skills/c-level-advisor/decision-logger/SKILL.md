@@ -150,6 +150,6 @@ memory/board-meetings/
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/decision-logger`

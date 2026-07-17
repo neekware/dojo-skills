@@ -277,6 +277,6 @@ All rights must be fulfilled within **30 days** (extendable to 90 for complex re
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/gdpr-dsgvo-expert`

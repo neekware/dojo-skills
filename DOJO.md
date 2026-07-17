@@ -1,6 +1,6 @@
-# DOJO.md — ehAyeSkills Development Notes
+# DOJO.md — dojo-skills Development Notes
 
-> **Scope:** Build commands, validation workflow, repo conventions, and gotchas for contributors working on the ehAye Skills pipeline.
+> **Scope:** Build commands, validation workflow, repo conventions, and gotchas for contributors working on the Dojo Skills pipeline.
 
 ## Build & Tooling
 

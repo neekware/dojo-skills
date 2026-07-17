@@ -113,6 +113,6 @@ python3 scripts/sample_size_calculator.py \
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/experiment-designer`

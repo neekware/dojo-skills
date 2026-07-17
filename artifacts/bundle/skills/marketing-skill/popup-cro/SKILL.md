@@ -239,6 +239,6 @@ Deliver popup recommendations with specificity: name the trigger type, target au
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/popup-cro`

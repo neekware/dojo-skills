@@ -250,6 +250,6 @@ git worktree prune  # Self-healing: clean up any stale registrations
 
 > **Creator:** Jesse Vincent
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `superpowers`
 > **Original Path:** `superpowers/finishing-a-development-branch`

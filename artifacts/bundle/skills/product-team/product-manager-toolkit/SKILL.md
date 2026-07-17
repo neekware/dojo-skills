@@ -386,6 +386,6 @@ python scripts/customer_interview_analyzer.py interview.txt json
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/product-manager-toolkit`

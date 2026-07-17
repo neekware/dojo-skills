@@ -268,6 +268,6 @@ When auditing: name the pattern → explain why it reads as AI → give the spec
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/content-humanizer`

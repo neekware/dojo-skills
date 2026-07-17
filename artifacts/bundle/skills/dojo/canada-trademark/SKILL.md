@@ -333,8 +333,8 @@ For founders targeting both markets:
 - Budget for a longer timeline than the US — Canadian examination typically takes 12-24 months.
 - Consider the Madrid Protocol if you plan to file in multiple countries beyond the US and Canada.
 
-> **Creator:** Ehaye
+> **Creator:** Dojo
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/canada-trademark`
+> **Source Repo:** `neekware/dojo-skills`
+> **Source Bucket:** `dojo`
+> **Original Path:** `dojo/canada-trademark`

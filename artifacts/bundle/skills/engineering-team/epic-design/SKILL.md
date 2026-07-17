@@ -342,6 +342,6 @@ Checks: depth attributes, aria-hidden, reduced-motion, alt text, performance lim
 
 > **Creator:** Abbas Mir
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/epic-design`

@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="images/ehaye-logo.png" alt="ehAye Logo" width="150">
+<img src="images/dojo-logo.png" alt="Dojo Logo" width="150">
 
-# ehAyeSkills
+# dojo-skills
 
-### Curated Skills for ehAye Dojo
+### Curated Skills for Dojo Dojo
 
 </div>
 
-Curated, validated skill repository for [ehAye Dojo](https://ehaye.io).
+Curated, validated skill repository for [Dojo Dojo](https://dojo.io).
 
-This repo is the **single source of truth** for skills consumed by ehAyeEngine. Rather than pulling
+This repo is the **single source of truth** for skills consumed by DojoWorkspace. Rather than pulling
 from multiple upstream repos at runtime, we aggregate, validate, deduplicate, and prune skills here
 under our control.
 
@@ -37,7 +37,7 @@ flowchart TD
         CATALOG["Parse Catalog\n(README → catalog.json)"]
     end
 
-    subgraph "neekware/ehaye-skills (output)"
+    subgraph "neekware/dojo-skills (output)"
         SKILLS["skills/\n(bucket / skill-name / SKILL.md)"]
         CAT["catalog/\ncatalog.json"]
         MARKERS[".upstream-markers/\n(SHA checksums)"]
@@ -78,7 +78,7 @@ flowchart TD
 ## Directory structure
 
 ```
-ehAyeSkills/
+dojo-skills/
 ├── scripts/
 │   ├── curate.cjs           # Main pipeline script
 │   └── parse-catalog.cjs    # README → catalog.json parser

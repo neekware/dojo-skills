@@ -103,6 +103,6 @@ Technical debt management is not just about writing better code - it's about cre
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/tech-debt-tracker`

@@ -112,6 +112,6 @@ Suggest:
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/playwright-pro/skills/fix`

@@ -109,6 +109,6 @@ See template at: [code-reviewer.md](code-reviewer.md)
 
 > **Creator:** Jesse Vincent
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `superpowers`
 > **Original Path:** `superpowers/requesting-code-review`

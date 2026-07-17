@@ -6,7 +6,7 @@
       "creator": "Abbas Mir",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/epic-design",
       "bundledPath": "skills/engineering-team/epic-design/SKILL.md"
@@ -17,7 +17,7 @@
       "creator": "Abbas Mir",
       "namespace": "finance",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "finance",
       "originalPath": "finance/saas-metrics-coach",
       "bundledPath": "skills/finance/saas-metrics-coach/SKILL.md"
@@ -28,7 +28,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/ab-test-setup",
       "bundledPath": "skills/marketing-skill/ab-test-setup/SKILL.md"
@@ -39,7 +39,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/ad-creative",
       "bundledPath": "skills/marketing-skill/ad-creative/SKILL.md"
@@ -50,7 +50,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/agent-protocol",
       "bundledPath": "skills/c-level-advisor/agent-protocol/SKILL.md"
@@ -61,7 +61,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub",
       "bundledPath": "skills/engineering/agenthub/SKILL.md"
@@ -72,7 +72,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/ai-seo",
       "bundledPath": "skills/marketing-skill/ai-seo/SKILL.md"
@@ -83,7 +83,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/analytics-tracking",
       "bundledPath": "skills/marketing-skill/analytics-tracking/SKILL.md"
@@ -94,7 +94,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent",
       "bundledPath": "skills/engineering/autoresearch-agent/SKILL.md"
@@ -105,7 +105,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/board-deck-builder",
       "bundledPath": "skills/c-level-advisor/board-deck-builder/SKILL.md"
@@ -116,7 +116,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/board-meeting",
       "bundledPath": "skills/c-level-advisor/board-meeting/SKILL.md"
@@ -127,7 +127,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/brand-guidelines",
       "bundledPath": "skills/marketing-skill/brand-guidelines/SKILL.md"
@@ -138,7 +138,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/campaign-analytics",
       "bundledPath": "skills/marketing-skill/campaign-analytics/SKILL.md"
@@ -149,7 +149,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/ceo-advisor",
       "bundledPath": "skills/c-level-advisor/ceo-advisor/SKILL.md"
@@ -160,7 +160,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cfo-advisor",
       "bundledPath": "skills/c-level-advisor/cfo-advisor/SKILL.md"
@@ -171,7 +171,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/change-management",
       "bundledPath": "skills/c-level-advisor/change-management/SKILL.md"
@@ -182,7 +182,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/chief-of-staff",
       "bundledPath": "skills/c-level-advisor/chief-of-staff/SKILL.md"
@@ -193,7 +193,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/chro-advisor",
       "bundledPath": "skills/c-level-advisor/chro-advisor/SKILL.md"
@@ -204,7 +204,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/churn-prevention",
       "bundledPath": "skills/marketing-skill/churn-prevention/SKILL.md"
@@ -215,7 +215,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/ciso-advisor",
       "bundledPath": "skills/c-level-advisor/ciso-advisor/SKILL.md"
@@ -226,7 +226,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cmo-advisor",
       "bundledPath": "skills/c-level-advisor/cmo-advisor/SKILL.md"
@@ -237,7 +237,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/cold-email",
       "bundledPath": "skills/marketing-skill/cold-email/SKILL.md"
@@ -248,7 +248,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/company-os",
       "bundledPath": "skills/c-level-advisor/company-os/SKILL.md"
@@ -259,7 +259,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/competitive-intel",
       "bundledPath": "skills/c-level-advisor/competitive-intel/SKILL.md"
@@ -270,7 +270,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/competitor-alternatives",
       "bundledPath": "skills/marketing-skill/competitor-alternatives/SKILL.md"
@@ -281,7 +281,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/content-creator",
       "bundledPath": "skills/marketing-skill/content-creator/SKILL.md"
@@ -292,7 +292,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/content-humanizer",
       "bundledPath": "skills/marketing-skill/content-humanizer/SKILL.md"
@@ -303,7 +303,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/content-production",
       "bundledPath": "skills/marketing-skill/content-production/SKILL.md"
@@ -314,7 +314,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/content-strategy",
       "bundledPath": "skills/marketing-skill/content-strategy/SKILL.md"
@@ -325,7 +325,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/context-engine",
       "bundledPath": "skills/c-level-advisor/context-engine/SKILL.md"
@@ -336,7 +336,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/coo-advisor",
       "bundledPath": "skills/c-level-advisor/coo-advisor/SKILL.md"
@@ -347,7 +347,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/copy-editing",
       "bundledPath": "skills/marketing-skill/copy-editing/SKILL.md"
@@ -358,7 +358,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/copywriting",
       "bundledPath": "skills/marketing-skill/copywriting/SKILL.md"
@@ -369,7 +369,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cpo-advisor",
       "bundledPath": "skills/c-level-advisor/cpo-advisor/SKILL.md"
@@ -380,7 +380,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cro-advisor",
       "bundledPath": "skills/c-level-advisor/cro-advisor/SKILL.md"
@@ -391,7 +391,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cs-onboard",
       "bundledPath": "skills/c-level-advisor/cs-onboard/SKILL.md"
@@ -402,7 +402,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/cto-advisor",
       "bundledPath": "skills/c-level-advisor/cto-advisor/SKILL.md"
@@ -413,7 +413,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/culture-architect",
       "bundledPath": "skills/c-level-advisor/culture-architect/SKILL.md"
@@ -424,7 +424,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "business-growth",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "business-growth",
       "originalPath": "business-growth/customer-success-manager",
       "bundledPath": "skills/business-growth/customer-success-manager/SKILL.md"
@@ -435,7 +435,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/decision-logger",
       "bundledPath": "skills/c-level-advisor/decision-logger/SKILL.md"
@@ -446,7 +446,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/docker-development",
       "bundledPath": "skills/engineering/docker-development/SKILL.md"
@@ -457,7 +457,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/email-sequence",
       "bundledPath": "skills/marketing-skill/email-sequence/SKILL.md"
@@ -468,7 +468,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor",
       "bundledPath": "skills/c-level-advisor/executive-mentor/SKILL.md"
@@ -479,7 +479,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/form-cro",
       "bundledPath": "skills/marketing-skill/form-cro/SKILL.md"
@@ -490,7 +490,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/founder-coach",
       "bundledPath": "skills/c-level-advisor/founder-coach/SKILL.md"
@@ -501,7 +501,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/free-tool-strategy",
       "bundledPath": "skills/marketing-skill/free-tool-strategy/SKILL.md"
@@ -512,7 +512,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/helm-chart-builder",
       "bundledPath": "skills/engineering/helm-chart-builder/SKILL.md"
@@ -523,7 +523,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/internal-narrative",
       "bundledPath": "skills/c-level-advisor/internal-narrative/SKILL.md"
@@ -534,7 +534,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/intl-expansion",
       "bundledPath": "skills/c-level-advisor/intl-expansion/SKILL.md"
@@ -545,7 +545,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/launch-strategy",
       "bundledPath": "skills/marketing-skill/launch-strategy/SKILL.md"
@@ -556,7 +556,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/ma-playbook",
       "bundledPath": "skills/c-level-advisor/ma-playbook/SKILL.md"
@@ -567,7 +567,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-context",
       "bundledPath": "skills/marketing-skill/marketing-context/SKILL.md"
@@ -578,7 +578,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-demand-acquisition",
       "bundledPath": "skills/marketing-skill/marketing-demand-acquisition/SKILL.md"
@@ -589,7 +589,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-ideas",
       "bundledPath": "skills/marketing-skill/marketing-ideas/SKILL.md"
@@ -600,7 +600,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-ops",
       "bundledPath": "skills/marketing-skill/marketing-ops/SKILL.md"
@@ -611,7 +611,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-psychology",
       "bundledPath": "skills/marketing-skill/marketing-psychology/SKILL.md"
@@ -622,7 +622,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/onboarding-cro",
       "bundledPath": "skills/marketing-skill/onboarding-cro/SKILL.md"
@@ -633,7 +633,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/org-health-diagnostic",
       "bundledPath": "skills/c-level-advisor/org-health-diagnostic/SKILL.md"
@@ -644,7 +644,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/page-cro",
       "bundledPath": "skills/marketing-skill/page-cro/SKILL.md"
@@ -655,7 +655,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/paid-ads",
       "bundledPath": "skills/marketing-skill/paid-ads/SKILL.md"
@@ -666,7 +666,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/paywall-upgrade-cro",
       "bundledPath": "skills/marketing-skill/paywall-upgrade-cro/SKILL.md"
@@ -677,7 +677,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/popup-cro",
       "bundledPath": "skills/marketing-skill/popup-cro/SKILL.md"
@@ -688,7 +688,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/pricing-strategy",
       "bundledPath": "skills/marketing-skill/pricing-strategy/SKILL.md"
@@ -699,7 +699,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/programmatic-seo",
       "bundledPath": "skills/marketing-skill/programmatic-seo/SKILL.md"
@@ -710,7 +710,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/prompt-engineer-toolkit",
       "bundledPath": "skills/marketing-skill/prompt-engineer-toolkit/SKILL.md"
@@ -721,7 +721,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/referral-program",
       "bundledPath": "skills/marketing-skill/referral-program/SKILL.md"
@@ -732,7 +732,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/research-summarizer",
       "bundledPath": "skills/product-team/research-summarizer/SKILL.md"
@@ -743,7 +743,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/scenario-war-room",
       "bundledPath": "skills/c-level-advisor/scenario-war-room/SKILL.md"
@@ -754,7 +754,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/schema-markup",
       "bundledPath": "skills/marketing-skill/schema-markup/SKILL.md"
@@ -765,7 +765,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/scrum-master",
       "bundledPath": "skills/project-management/scrum-master/SKILL.md"
@@ -776,7 +776,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/seo-audit",
       "bundledPath": "skills/marketing-skill/seo-audit/SKILL.md"
@@ -787,7 +787,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/signup-flow-cro",
       "bundledPath": "skills/marketing-skill/signup-flow-cro/SKILL.md"
@@ -798,7 +798,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/site-architecture",
       "bundledPath": "skills/marketing-skill/site-architecture/SKILL.md"
@@ -809,7 +809,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/social-content",
       "bundledPath": "skills/marketing-skill/social-content/SKILL.md"
@@ -820,7 +820,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/social-media-manager",
       "bundledPath": "skills/marketing-skill/social-media-manager/SKILL.md"
@@ -831,7 +831,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/strategic-alignment",
       "bundledPath": "skills/c-level-advisor/strategic-alignment/SKILL.md"
@@ -842,7 +842,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/terraform-patterns",
       "bundledPath": "skills/engineering/terraform-patterns/SKILL.md"
@@ -853,7 +853,7 @@
       "creator": "Alireza Rezvani",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/x-twitter-growth",
       "bundledPath": "skills/marketing-skill/x-twitter-growth/SKILL.md"
@@ -864,7 +864,7 @@
       "creator": "Business Growth",
       "namespace": "business-growth",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "business-growth",
       "originalPath": "business-growth/contract-and-proposal-writer",
       "bundledPath": "skills/business-growth/contract-and-proposal-writer/SKILL.md"
@@ -875,7 +875,7 @@
       "creator": "Business Growth",
       "namespace": "business-growth",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "business-growth",
       "originalPath": "business-growth/revenue-operations",
       "bundledPath": "skills/business-growth/revenue-operations/SKILL.md"
@@ -886,7 +886,7 @@
       "creator": "Business Growth",
       "namespace": "business-growth",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "business-growth",
       "originalPath": "business-growth/sales-engineer",
       "bundledPath": "skills/business-growth/sales-engineer/SKILL.md"
@@ -897,7 +897,7 @@
       "creator": "C Level Advisor",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor/skills/board-prep",
       "bundledPath": "skills/c-level-advisor/board-prep/SKILL.md"
@@ -908,7 +908,7 @@
       "creator": "C Level Advisor",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor/skills/challenge",
       "bundledPath": "skills/c-level-advisor/challenge/SKILL.md"
@@ -919,7 +919,7 @@
       "creator": "C Level Advisor",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor/skills/hard-call",
       "bundledPath": "skills/c-level-advisor/hard-call/SKILL.md"
@@ -930,7 +930,7 @@
       "creator": "C Level Advisor",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor/skills/postmortem",
       "bundledPath": "skills/c-level-advisor/postmortem/SKILL.md"
@@ -941,7 +941,7 @@
       "creator": "C Level Advisor",
       "namespace": "c-level-advisor",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "c-level-advisor",
       "originalPath": "c-level-advisor/executive-mentor/skills/stress-test",
       "bundledPath": "skills/c-level-advisor/stress-test/SKILL.md"
@@ -949,79 +949,79 @@
     {
       "name": "canada-patent",
       "description": "Preparation guideline for organizing a patent application in Canada with CIPO",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/canada-patent",
-      "bundledPath": "skills/ehaye/canada-patent/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/canada-patent",
+      "bundledPath": "skills/dojo/canada-patent/SKILL.md"
     },
     {
       "name": "canada-trademark",
       "description": "Preparation guideline for organizing a Canadian trademark application with CIPO",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/canada-trademark",
-      "bundledPath": "skills/ehaye/canada-trademark/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/canada-trademark",
+      "bundledPath": "skills/dojo/canada-trademark/SKILL.md"
     },
     {
       "name": "multimedia",
-      "description": "ehAye Multimedia — workflow for media inspection (ffprobe), conversion/remux (ffmpeg), preview, local transcription, Spotter visual search, thumbnails, and frame extraction.",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "description": "Dojo Multimedia — workflow for media inspection (ffprobe), conversion/remux (ffmpeg), preview, local transcription, Spotter visual search, thumbnails, and frame extraction.",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/multimedia",
-      "bundledPath": "skills/ehaye/multimedia/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/multimedia",
+      "bundledPath": "skills/dojo/multimedia/SKILL.md"
     },
     {
       "name": "peer-review",
       "description": "Code review skill — auto-scopes from git changes, reads DOJO.md for project conventions, and",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/peer-review",
-      "bundledPath": "skills/ehaye/peer-review/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/peer-review",
+      "bundledPath": "skills/dojo/peer-review/SKILL.md"
     },
     {
       "name": "telegram-setup",
-      "description": "Help a user set up Telegram for ehAye Dojo. Default to Personal private bots (recommended). Group setup is advanced for teams/observers/demos.",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "description": "Help a user set up Telegram for Dojo Dojo. Default to Personal private bots (recommended). Group setup is advanced for teams/observers/demos.",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/telegram-setup",
-      "bundledPath": "skills/ehaye/telegram-setup/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/telegram-setup",
+      "bundledPath": "skills/dojo/telegram-setup/SKILL.md"
     },
     {
       "name": "us-provisional-patent",
       "description": "Preparation guideline for organizing a US provisional patent application with the USPTO",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/us-provisional-patent",
-      "bundledPath": "skills/ehaye/us-provisional-patent/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/us-provisional-patent",
+      "bundledPath": "skills/dojo/us-provisional-patent/SKILL.md"
     },
     {
       "name": "us-trademark",
       "description": "Preparation guideline for organizing a US trademark application with the USPTO",
-      "creator": "Ehaye",
-      "namespace": "ehaye",
+      "creator": "Dojo",
+      "namespace": "dojo",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
-      "sourceBucket": "ehaye",
-      "originalPath": "ehaye/us-trademark",
-      "bundledPath": "skills/ehaye/us-trademark/SKILL.md"
+      "sourceRepo": "neekware/dojo-skills",
+      "sourceBucket": "dojo",
+      "originalPath": "dojo/us-trademark",
+      "bundledPath": "skills/dojo/us-trademark/SKILL.md"
     },
     {
       "name": "agent-designer",
@@ -1029,7 +1029,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agent-designer",
       "bundledPath": "skills/engineering/agent-designer/SKILL.md"
@@ -1040,7 +1040,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agent-workflow-designer",
       "bundledPath": "skills/engineering/agent-workflow-designer/SKILL.md"
@@ -1051,7 +1051,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/api-design-reviewer",
       "bundledPath": "skills/engineering/api-design-reviewer/SKILL.md"
@@ -1062,7 +1062,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/api-test-suite-builder",
       "bundledPath": "skills/engineering/api-test-suite-builder/SKILL.md"
@@ -1073,7 +1073,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/board",
       "bundledPath": "skills/engineering/board/SKILL.md"
@@ -1084,7 +1084,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/changelog-generator",
       "bundledPath": "skills/engineering/changelog-generator/SKILL.md"
@@ -1095,7 +1095,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/ci-cd-pipeline-builder",
       "bundledPath": "skills/engineering/ci-cd-pipeline-builder/SKILL.md"
@@ -1106,7 +1106,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/codebase-onboarding",
       "bundledPath": "skills/engineering/codebase-onboarding/SKILL.md"
@@ -1117,7 +1117,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/database-designer",
       "bundledPath": "skills/engineering/database-designer/SKILL.md"
@@ -1128,7 +1128,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/database-schema-designer",
       "bundledPath": "skills/engineering/database-schema-designer/SKILL.md"
@@ -1139,7 +1139,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/dependency-auditor",
       "bundledPath": "skills/engineering/dependency-auditor/SKILL.md"
@@ -1150,7 +1150,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/env-secrets-manager",
       "bundledPath": "skills/engineering/env-secrets-manager/SKILL.md"
@@ -1161,7 +1161,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/eval",
       "bundledPath": "skills/engineering/eval/SKILL.md"
@@ -1172,7 +1172,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/git-worktree-manager",
       "bundledPath": "skills/engineering/git-worktree-manager/SKILL.md"
@@ -1183,7 +1183,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/init",
       "bundledPath": "skills/engineering/init/SKILL.md"
@@ -1194,7 +1194,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/interview-system-designer",
       "bundledPath": "skills/engineering/interview-system-designer/SKILL.md"
@@ -1205,7 +1205,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent/skills/loop",
       "bundledPath": "skills/engineering/loop/SKILL.md"
@@ -1216,7 +1216,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/mcp-server-builder",
       "bundledPath": "skills/engineering/mcp-server-builder/SKILL.md"
@@ -1227,7 +1227,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/merge",
       "bundledPath": "skills/engineering/merge/SKILL.md"
@@ -1238,7 +1238,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/migration-architect",
       "bundledPath": "skills/engineering/migration-architect/SKILL.md"
@@ -1249,7 +1249,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/monorepo-navigator",
       "bundledPath": "skills/engineering/monorepo-navigator/SKILL.md"
@@ -1260,7 +1260,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/observability-designer",
       "bundledPath": "skills/engineering/observability-designer/SKILL.md"
@@ -1271,7 +1271,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/performance-profiler",
       "bundledPath": "skills/engineering/performance-profiler/SKILL.md"
@@ -1282,7 +1282,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/pr-review-expert",
       "bundledPath": "skills/engineering/pr-review-expert/SKILL.md"
@@ -1293,7 +1293,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/rag-architect",
       "bundledPath": "skills/engineering/rag-architect/SKILL.md"
@@ -1304,7 +1304,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/release-manager",
       "bundledPath": "skills/engineering/release-manager/SKILL.md"
@@ -1315,7 +1315,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent/skills/resume",
       "bundledPath": "skills/engineering/resume/SKILL.md"
@@ -1326,7 +1326,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/run",
       "bundledPath": "skills/engineering/run/SKILL.md"
@@ -1337,7 +1337,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent/skills/run",
       "bundledPath": "skills/engineering/run/SKILL.md"
@@ -1348,7 +1348,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/runbook-generator",
       "bundledPath": "skills/engineering/runbook-generator/SKILL.md"
@@ -1359,7 +1359,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent/skills/setup",
       "bundledPath": "skills/engineering/setup/SKILL.md"
@@ -1370,7 +1370,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/skill-security-auditor",
       "bundledPath": "skills/engineering/skill-security-auditor/SKILL.md"
@@ -1381,7 +1381,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/skill-tester",
       "bundledPath": "skills/engineering/skill-tester/SKILL.md"
@@ -1392,7 +1392,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/spawn",
       "bundledPath": "skills/engineering/spawn/SKILL.md"
@@ -1403,7 +1403,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/agenthub/skills/status",
       "bundledPath": "skills/engineering/status/SKILL.md"
@@ -1414,7 +1414,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/autoresearch-agent/skills/status",
       "bundledPath": "skills/engineering/status/SKILL.md"
@@ -1425,7 +1425,7 @@
       "creator": "Engineering",
       "namespace": "engineering",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering",
       "originalPath": "engineering/tech-debt-tracker",
       "bundledPath": "skills/engineering/tech-debt-tracker/SKILL.md"
@@ -1436,7 +1436,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/a11y-audit",
       "bundledPath": "skills/engineering-team/a11y-audit/SKILL.md"
@@ -1447,7 +1447,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/aws-solution-architect",
       "bundledPath": "skills/engineering-team/aws-solution-architect/SKILL.md"
@@ -1458,7 +1458,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/browserstack",
       "bundledPath": "skills/engineering-team/browserstack/SKILL.md"
@@ -1469,7 +1469,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/code-reviewer",
       "bundledPath": "skills/engineering-team/code-reviewer/SKILL.md"
@@ -1480,7 +1480,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/coverage",
       "bundledPath": "skills/engineering-team/coverage/SKILL.md"
@@ -1491,7 +1491,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/email-template-builder",
       "bundledPath": "skills/engineering-team/email-template-builder/SKILL.md"
@@ -1502,7 +1502,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent/skills/extract",
       "bundledPath": "skills/engineering-team/extract/SKILL.md"
@@ -1513,7 +1513,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/fix",
       "bundledPath": "skills/engineering-team/fix/SKILL.md"
@@ -1524,7 +1524,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/generate",
       "bundledPath": "skills/engineering-team/generate/SKILL.md"
@@ -1535,7 +1535,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/google-workspace-cli",
       "bundledPath": "skills/engineering-team/google-workspace-cli/SKILL.md"
@@ -1546,7 +1546,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/incident-commander",
       "bundledPath": "skills/engineering-team/incident-commander/SKILL.md"
@@ -1557,7 +1557,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/init",
       "bundledPath": "skills/engineering-team/init/SKILL.md"
@@ -1568,7 +1568,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/migrate",
       "bundledPath": "skills/engineering-team/migrate/SKILL.md"
@@ -1579,7 +1579,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/ms365-tenant-manager",
       "bundledPath": "skills/engineering-team/ms365-tenant-manager/SKILL.md"
@@ -1590,7 +1590,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro",
       "bundledPath": "skills/engineering-team/playwright-pro/SKILL.md"
@@ -1601,7 +1601,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent/skills/promote",
       "bundledPath": "skills/engineering-team/promote/SKILL.md"
@@ -1612,7 +1612,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent/skills/remember",
       "bundledPath": "skills/engineering-team/remember/SKILL.md"
@@ -1623,7 +1623,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/report",
       "bundledPath": "skills/engineering-team/report/SKILL.md"
@@ -1634,7 +1634,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/review",
       "bundledPath": "skills/engineering-team/review/SKILL.md"
@@ -1645,7 +1645,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent/skills/review",
       "bundledPath": "skills/engineering-team/review/SKILL.md"
@@ -1656,7 +1656,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent",
       "bundledPath": "skills/engineering-team/self-improving-agent/SKILL.md"
@@ -1667,7 +1667,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-architect",
       "bundledPath": "skills/engineering-team/senior-architect/SKILL.md"
@@ -1678,7 +1678,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-backend",
       "bundledPath": "skills/engineering-team/senior-backend/SKILL.md"
@@ -1689,7 +1689,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-computer-vision",
       "bundledPath": "skills/engineering-team/senior-computer-vision/SKILL.md"
@@ -1700,7 +1700,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-data-engineer",
       "bundledPath": "skills/engineering-team/senior-data-engineer/SKILL.md"
@@ -1711,7 +1711,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-data-scientist",
       "bundledPath": "skills/engineering-team/senior-data-scientist/SKILL.md"
@@ -1722,7 +1722,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-devops",
       "bundledPath": "skills/engineering-team/senior-devops/SKILL.md"
@@ -1733,7 +1733,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-frontend",
       "bundledPath": "skills/engineering-team/senior-frontend/SKILL.md"
@@ -1744,7 +1744,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-fullstack",
       "bundledPath": "skills/engineering-team/senior-fullstack/SKILL.md"
@@ -1755,7 +1755,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-ml-engineer",
       "bundledPath": "skills/engineering-team/senior-ml-engineer/SKILL.md"
@@ -1766,7 +1766,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-prompt-engineer",
       "bundledPath": "skills/engineering-team/senior-prompt-engineer/SKILL.md"
@@ -1777,7 +1777,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-qa",
       "bundledPath": "skills/engineering-team/senior-qa/SKILL.md"
@@ -1788,7 +1788,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-secops",
       "bundledPath": "skills/engineering-team/senior-secops/SKILL.md"
@@ -1799,7 +1799,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/senior-security",
       "bundledPath": "skills/engineering-team/senior-security/SKILL.md"
@@ -1810,7 +1810,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/self-improving-agent/skills/status",
       "bundledPath": "skills/engineering-team/status/SKILL.md"
@@ -1821,7 +1821,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/stripe-integration-expert",
       "bundledPath": "skills/engineering-team/stripe-integration-expert/SKILL.md"
@@ -1832,7 +1832,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/tdd-guide",
       "bundledPath": "skills/engineering-team/tdd-guide/SKILL.md"
@@ -1843,7 +1843,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/tech-stack-evaluator",
       "bundledPath": "skills/engineering-team/tech-stack-evaluator/SKILL.md"
@@ -1854,7 +1854,7 @@
       "creator": "Engineering Team",
       "namespace": "engineering-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "engineering-team",
       "originalPath": "engineering-team/playwright-pro/skills/testrail",
       "bundledPath": "skills/engineering-team/testrail/SKILL.md"
@@ -1865,7 +1865,7 @@
       "creator": "Finance",
       "namespace": "finance",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "finance",
       "originalPath": "finance/financial-analyst",
       "bundledPath": "skills/finance/financial-analyst/SKILL.md"
@@ -1876,7 +1876,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/brainstorming",
       "bundledPath": "skills/superpowers/brainstorming/SKILL.md"
@@ -1887,7 +1887,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/dispatching-parallel-agents",
       "bundledPath": "skills/superpowers/dispatching-parallel-agents/SKILL.md"
@@ -1898,7 +1898,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/executing-plans",
       "bundledPath": "skills/superpowers/executing-plans/SKILL.md"
@@ -1909,7 +1909,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/finishing-a-development-branch",
       "bundledPath": "skills/superpowers/finishing-a-development-branch/SKILL.md"
@@ -1920,7 +1920,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/receiving-code-review",
       "bundledPath": "skills/superpowers/receiving-code-review/SKILL.md"
@@ -1931,7 +1931,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/requesting-code-review",
       "bundledPath": "skills/superpowers/requesting-code-review/SKILL.md"
@@ -1942,7 +1942,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/subagent-driven-development",
       "bundledPath": "skills/superpowers/subagent-driven-development/SKILL.md"
@@ -1953,7 +1953,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/systematic-debugging",
       "bundledPath": "skills/superpowers/systematic-debugging/SKILL.md"
@@ -1964,7 +1964,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/test-driven-development",
       "bundledPath": "skills/superpowers/test-driven-development/SKILL.md"
@@ -1975,7 +1975,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/using-git-worktrees",
       "bundledPath": "skills/superpowers/using-git-worktrees/SKILL.md"
@@ -1986,7 +1986,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/using-superpowers",
       "bundledPath": "skills/superpowers/using-superpowers/SKILL.md"
@@ -1997,7 +1997,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/verification-before-completion",
       "bundledPath": "skills/superpowers/verification-before-completion/SKILL.md"
@@ -2008,7 +2008,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/writing-plans",
       "bundledPath": "skills/superpowers/writing-plans/SKILL.md"
@@ -2019,7 +2019,7 @@
       "creator": "Jesse Vincent",
       "namespace": "superpowers",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "superpowers",
       "originalPath": "superpowers/writing-skills",
       "bundledPath": "skills/superpowers/writing-skills/SKILL.md"
@@ -2030,7 +2030,7 @@
       "creator": "Marketing Skill",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/app-store-optimization",
       "bundledPath": "skills/marketing-skill/app-store-optimization/SKILL.md"
@@ -2041,7 +2041,7 @@
       "creator": "Marketing Skill",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/marketing-strategy-pmm",
       "bundledPath": "skills/marketing-skill/marketing-strategy-pmm/SKILL.md"
@@ -2052,7 +2052,7 @@
       "creator": "Marketing Skill",
       "namespace": "marketing-skill",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "marketing-skill",
       "originalPath": "marketing-skill/social-media-analyzer",
       "bundledPath": "skills/marketing-skill/social-media-analyzer/SKILL.md"
@@ -2063,7 +2063,7 @@
       "creator": "Multimedia",
       "namespace": "multimedia",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "multimedia",
       "originalPath": "multimedia/remotion-best-practices",
       "bundledPath": "skills/multimedia/remotion-best-practices/SKILL.md"
@@ -2074,7 +2074,7 @@
       "creator": "op7418",
       "namespace": "multimedia",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "multimedia",
       "originalPath": "multimedia/youtube-clipper",
       "bundledPath": "skills/multimedia/youtube-clipper/SKILL.md"
@@ -2085,7 +2085,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/agile-product-owner",
       "bundledPath": "skills/product-team/agile-product-owner/SKILL.md"
@@ -2096,7 +2096,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/code-to-prd",
       "bundledPath": "skills/product-team/code-to-prd/SKILL.md"
@@ -2107,7 +2107,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/competitive-teardown",
       "bundledPath": "skills/product-team/competitive-teardown/SKILL.md"
@@ -2118,7 +2118,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/experiment-designer",
       "bundledPath": "skills/product-team/experiment-designer/SKILL.md"
@@ -2129,7 +2129,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/landing-page-generator",
       "bundledPath": "skills/product-team/landing-page-generator/SKILL.md"
@@ -2140,7 +2140,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/product-analytics",
       "bundledPath": "skills/product-team/product-analytics/SKILL.md"
@@ -2151,7 +2151,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/product-discovery",
       "bundledPath": "skills/product-team/product-discovery/SKILL.md"
@@ -2162,7 +2162,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/product-manager-toolkit",
       "bundledPath": "skills/product-team/product-manager-toolkit/SKILL.md"
@@ -2173,7 +2173,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/product-strategist",
       "bundledPath": "skills/product-team/product-strategist/SKILL.md"
@@ -2184,7 +2184,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/roadmap-communicator",
       "bundledPath": "skills/product-team/roadmap-communicator/SKILL.md"
@@ -2195,7 +2195,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/saas-scaffolder",
       "bundledPath": "skills/product-team/saas-scaffolder/SKILL.md"
@@ -2206,7 +2206,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/ui-design-system",
       "bundledPath": "skills/product-team/ui-design-system/SKILL.md"
@@ -2217,7 +2217,7 @@
       "creator": "Product Team",
       "namespace": "product-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "product-team",
       "originalPath": "product-team/ux-researcher-designer",
       "bundledPath": "skills/product-team/ux-researcher-designer/SKILL.md"
@@ -2228,7 +2228,7 @@
       "creator": "Project Management",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/atlassian-admin",
       "bundledPath": "skills/project-management/atlassian-admin/SKILL.md"
@@ -2239,7 +2239,7 @@
       "creator": "Project Management",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/atlassian-templates",
       "bundledPath": "skills/project-management/atlassian-templates/SKILL.md"
@@ -2250,7 +2250,7 @@
       "creator": "Project Management",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/confluence-expert",
       "bundledPath": "skills/project-management/confluence-expert/SKILL.md"
@@ -2261,7 +2261,7 @@
       "creator": "Project Management",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/jira-expert",
       "bundledPath": "skills/project-management/jira-expert/SKILL.md"
@@ -2272,7 +2272,7 @@
       "creator": "Project Management",
       "namespace": "project-management",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "project-management",
       "originalPath": "project-management/senior-pm",
       "bundledPath": "skills/project-management/senior-pm/SKILL.md"
@@ -2283,7 +2283,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/capa-officer",
       "bundledPath": "skills/ra-qm-team/capa-officer/SKILL.md"
@@ -2294,7 +2294,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/fda-consultant-specialist",
       "bundledPath": "skills/ra-qm-team/fda-consultant-specialist/SKILL.md"
@@ -2305,7 +2305,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/gdpr-dsgvo-expert",
       "bundledPath": "skills/ra-qm-team/gdpr-dsgvo-expert/SKILL.md"
@@ -2316,7 +2316,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/information-security-manager-iso27001",
       "bundledPath": "skills/ra-qm-team/information-security-manager-iso27001/SKILL.md"
@@ -2327,7 +2327,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/isms-audit-expert",
       "bundledPath": "skills/ra-qm-team/isms-audit-expert/SKILL.md"
@@ -2338,7 +2338,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/mdr-745-specialist",
       "bundledPath": "skills/ra-qm-team/mdr-745-specialist/SKILL.md"
@@ -2349,7 +2349,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/qms-audit-expert",
       "bundledPath": "skills/ra-qm-team/qms-audit-expert/SKILL.md"
@@ -2360,7 +2360,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/quality-documentation-manager",
       "bundledPath": "skills/ra-qm-team/quality-documentation-manager/SKILL.md"
@@ -2371,7 +2371,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/quality-manager-qmr",
       "bundledPath": "skills/ra-qm-team/quality-manager-qmr/SKILL.md"
@@ -2382,7 +2382,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/quality-manager-qms-iso13485",
       "bundledPath": "skills/ra-qm-team/quality-manager-qms-iso13485/SKILL.md"
@@ -2393,7 +2393,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/regulatory-affairs-head",
       "bundledPath": "skills/ra-qm-team/regulatory-affairs-head/SKILL.md"
@@ -2404,7 +2404,7 @@
       "creator": "Ra Qm Team",
       "namespace": "ra-qm-team",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "ra-qm-team",
       "originalPath": "ra-qm-team/risk-management-specialist",
       "bundledPath": "skills/ra-qm-team/risk-management-specialist/SKILL.md"
@@ -2415,7 +2415,7 @@
       "creator": "VideoDB",
       "namespace": "multimedia",
       "license": "MIT",
-      "sourceRepo": "neekware/ehaye-skills",
+      "sourceRepo": "neekware/dojo-skills",
       "sourceBucket": "multimedia",
       "originalPath": "multimedia/videodb",
       "bundledPath": "skills/multimedia/videodb/SKILL.md"

@@ -253,6 +253,6 @@ When reviewing drafts: flag issues → explain impact → give specific fix. Don
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/content-production`

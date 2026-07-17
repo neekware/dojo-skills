@@ -265,6 +265,6 @@ See **HANDOFFS.md** for the full handoff matrix. Summary:
 
 > **Creator:** Project Management
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `project-management`
 > **Original Path:** `project-management/atlassian-templates`

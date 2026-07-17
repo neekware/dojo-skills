@@ -197,6 +197,6 @@ A quick health check. Score each area 0–10:
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/strategic-alignment`

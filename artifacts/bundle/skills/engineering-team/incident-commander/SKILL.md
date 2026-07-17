@@ -509,6 +509,6 @@ Remember: The goal isn't to prevent all incidents (which is impossible), but to 
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/incident-commander`

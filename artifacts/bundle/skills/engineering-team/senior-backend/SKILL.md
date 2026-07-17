@@ -388,6 +388,6 @@ python scripts/api_load_tester.py https://api.example.com/endpoint --compare bas
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/senior-backend`

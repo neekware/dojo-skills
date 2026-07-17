@@ -188,6 +188,6 @@ python scripts/migration_analyzer.py --from angular-1.x --to react
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/tech-stack-evaluator`

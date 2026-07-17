@@ -478,6 +478,6 @@ All output passes quality verification:
 
 > **Creator:** Marketing Skill
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/app-store-optimization`

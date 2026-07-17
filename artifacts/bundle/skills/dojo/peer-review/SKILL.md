@@ -201,8 +201,8 @@ Regardless of review mode, always surface these if present:
 - Every finding must have concrete evidence (file path, line number) and a concrete fix.
 - The report is the deliverable. Make it scannable, actionable, and honest.
 
-> **Creator:** Ehaye
+> **Creator:** Dojo
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/peer-review`
+> **Source Repo:** `neekware/dojo-skills`
+> **Source Bucket:** `dojo`
+> **Original Path:** `dojo/peer-review`

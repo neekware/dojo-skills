@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Catalog Parser for ehAyeSkills
+ * Catalog Parser for dojo-skills
  *
  * Parses the awesome-agent-skills README.md and emits a clean catalog.json.
  * Deduplicates, skips meta/non-skill repos, and normalizes descriptions.
@@ -26,7 +26,7 @@ const SKIP_REPOS = new Set([
   'voltagent/voltagent',
   'neekware/awesome-agent-skills',
   'neekware/claude-skills',
-  'neekware/ehaye-skills',
+  'neekware/dojo-skills',
   'snyk/agent-scan',
 ]);
 

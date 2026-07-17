@@ -68,6 +68,6 @@ prompts         support-tone         15     6   82/100       +46.4%    done     
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/autoresearch-agent/skills/status`

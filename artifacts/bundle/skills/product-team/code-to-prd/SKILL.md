@@ -516,6 +516,6 @@ This skill was inspired by [code-to-prd](https://github.com/lihanglogan/code-to-
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/code-to-prd`

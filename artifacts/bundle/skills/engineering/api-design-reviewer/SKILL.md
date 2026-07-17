@@ -465,6 +465,6 @@ Regular use of the linting, breaking change detection, and scoring tools ensures
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/api-design-reviewer`

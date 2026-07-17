@@ -163,6 +163,6 @@ Make the call. Make it clearly. Make it with dignity.
 
 > **Creator:** C Level Advisor
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/executive-mentor/skills/hard-call`

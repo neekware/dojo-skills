@@ -279,6 +279,6 @@ Check the comprehensive troubleshooting section in `references/deployment_strate
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/senior-devops`

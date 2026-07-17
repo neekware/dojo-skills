@@ -356,6 +356,6 @@ See [rules/voiceover.md](rules/voiceover.md) for adding AI-generated voiceover t
 
 > **Creator:** Multimedia
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `multimedia`
 > **Original Path:** `multimedia/remotion-best-practices`

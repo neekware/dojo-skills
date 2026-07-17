@@ -117,6 +117,6 @@ python3 scripts/metrics_calculator.py funnel funnel.csv --stages visit,signup,ac
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/product-analytics`

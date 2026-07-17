@@ -226,6 +226,6 @@ See `references/examples/sample_growth_okrs.json` for a complete example.
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/product-strategist`

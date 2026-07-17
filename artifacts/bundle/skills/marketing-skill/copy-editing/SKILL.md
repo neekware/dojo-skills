@@ -527,6 +527,6 @@ Deliver findings sweep-by-sweep. Don't dump all issues at once. Prioritize by co
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/copy-editing`

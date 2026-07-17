@@ -456,6 +456,6 @@ Reference: `references/portfolio-kpis.md` for full definitions and measurement g
 
 > **Creator:** Project Management
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `project-management`
 > **Original Path:** `project-management/senior-pm`

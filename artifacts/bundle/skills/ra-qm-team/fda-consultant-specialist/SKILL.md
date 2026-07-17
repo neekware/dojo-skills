@@ -307,6 +307,6 @@ python scripts/hipaa_risk_assessment.py /path/to/project --category technical
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/fda-consultant-specialist`

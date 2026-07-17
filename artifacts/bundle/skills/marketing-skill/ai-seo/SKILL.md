@@ -335,6 +335,6 @@ AI SEO is still a young field. Be honest about confidence levels. What gets cite
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/ai-seo`

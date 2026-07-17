@@ -3,8 +3,8 @@
  * Pre-commit hook: lightweight validation only.
  *
  * Checks:
- *   1. Own skills (ehaye/ bucket) have valid SKILL.md files
- *   2. catalog.json exists and includes neekware/ehaye-skills
+ *   1. Own skills (dojo/ bucket) have valid SKILL.md files
+ *   2. catalog.json exists and includes neekware/dojo-skills
  *   3. Refreshes bundled markdown-only export
  *
  * Does NOT run the full curation pipeline — that's `npm run curate`.
@@ -15,7 +15,7 @@ const path = require('path');
 const { execSync } = require('child_process');
 
 const ROOT = path.resolve(__dirname, '..');
-const SKILLS_DIR = path.join(ROOT, 'skills', 'ehaye');
+const SKILLS_DIR = path.join(ROOT, 'skills', 'dojo');
 const CATALOG_FILE = path.join(ROOT, 'catalog', 'catalog.json');
 const FRONTMATTER_RE = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/;
 
@@ -66,9 +66,9 @@ if (fs.existsSync(SKILLS_DIR)) {
 
 if (fs.existsSync(CATALOG_FILE)) {
   const catalog = JSON.parse(fs.readFileSync(CATALOG_FILE, 'utf-8'));
-  const hasSelf = catalog.some((e) => e.repo === 'neekware/ehaye-skills');
-  if (hasSelf) ok('catalog.json includes neekware/ehaye-skills');
-  else fail('catalog.json is missing neekware/ehaye-skills — run: npm run curate');
+  const hasSelf = catalog.some((e) => e.repo === 'neekware/dojo-skills');
+  if (hasSelf) ok('catalog.json includes neekware/dojo-skills');
+  else fail('catalog.json is missing neekware/dojo-skills — run: npm run curate');
 } else {
   fail('catalog.json not found — run: npm run curate');
 }

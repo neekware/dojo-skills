@@ -1,8 +1,8 @@
 {
-  "name": "ehaye-skills",
+  "name": "dojo-skills",
   "version": "1.0.5",
   "private": true,
-  "description": "Curated, validated skill repository for ehAye Dojo",
+  "description": "Curated, validated skill repository for Dojo Dojo",
   "scripts": {
     "precurate": "pnpm format:all",
     "curate": "node scripts/curate.cjs",
@@ -13,8 +13,8 @@
     "bundle:export": "node scripts/export-bundle.cjs",
     "bundle:clean": "node -e \"require('fs').rmSync('artifacts/bundle',{recursive:true,force:true})\"",
     "hooks:install": "git config core.hooksPath .githooks",
-    "format": "prettier --write 'skills/ehaye/**/*.md'",
-    "format:check": "prettier --check 'skills/ehaye/**/*.md'",
+    "format": "prettier --write 'skills/dojo/**/*.md'",
+    "format:check": "prettier --check 'skills/dojo/**/*.md'",
     "format:all": "prettier --write '**/*.md'",
     "format:all:check": "prettier --check '**/*.md'"
   },

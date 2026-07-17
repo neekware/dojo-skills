@@ -300,6 +300,6 @@ For additional guidance, generate the following companion reference files alongs
 
 > **Creator:** Product Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `product-team`
 > **Original Path:** `product-team/saas-scaffolder`

@@ -468,6 +468,6 @@ Submission Status Report — 2024-11-01
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/regulatory-affairs-head`

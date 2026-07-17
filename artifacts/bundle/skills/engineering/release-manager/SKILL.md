@@ -554,6 +554,6 @@ The Release Manager skill transforms chaotic deployments into predictable, relia
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/release-manager`

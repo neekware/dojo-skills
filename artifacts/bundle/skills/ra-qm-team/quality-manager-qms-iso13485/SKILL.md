@@ -421,6 +421,6 @@ Nonconforming Product Identified
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/quality-manager-qms-iso13485`

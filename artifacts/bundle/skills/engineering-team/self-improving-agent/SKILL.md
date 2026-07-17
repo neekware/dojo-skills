@@ -170,6 +170,6 @@ Monitors command output for errors. When detected, appends a structured entry to
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/self-improving-agent`

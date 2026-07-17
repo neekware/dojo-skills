@@ -82,6 +82,6 @@ After every 10th experiment (check results.tsv line count), update the Strategy 
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/autoresearch-agent/skills/run`

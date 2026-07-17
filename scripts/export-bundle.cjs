@@ -203,7 +203,7 @@ function main() {
   rmrf(OUTPUT_DIR);
   mkdirp(OUTPUT_SKILLS_DIR);
 
-  const sourceRepo = 'neekware/ehaye-skills';
+  const sourceRepo = 'neekware/dojo-skills';
   const bucketDirs = fs.readdirSync(SOURCE_SKILLS_DIR, { withFileTypes: true }).filter((d) => d.isDirectory());
   const manifest = [];
 

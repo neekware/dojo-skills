@@ -211,6 +211,6 @@ _For deep framework references see `references/velocity-forecasting-guide.md` an
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `project-management`
 > **Original Path:** `project-management/scrum-master`

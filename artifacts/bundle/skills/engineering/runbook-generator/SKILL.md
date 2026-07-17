@@ -74,6 +74,6 @@ python3 scripts/runbook_generator.py payments-api --owner platform --output docs
 
 > **Creator:** Engineering
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering`
 > **Original Path:** `engineering/runbook-generator`

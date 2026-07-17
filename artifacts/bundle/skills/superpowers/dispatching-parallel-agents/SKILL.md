@@ -192,6 +192,6 @@ From debugging session (2025-10-03):
 
 > **Creator:** Jesse Vincent
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `superpowers`
 > **Original Path:** `superpowers/dispatching-parallel-agents`

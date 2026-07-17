@@ -431,6 +431,6 @@ Data transfers outside EEA covered by: [ ] SCCs [ ] Adequacy Decision [ ] BCRs
 
 > **Creator:** Business Growth
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `business-growth`
 > **Original Path:** `business-growth/contract-and-proposal-writer`

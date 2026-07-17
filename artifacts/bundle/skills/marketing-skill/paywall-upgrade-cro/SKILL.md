@@ -274,6 +274,6 @@ Paywall recommendations must account for where the user is in their value journe
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/paywall-upgrade-cro`

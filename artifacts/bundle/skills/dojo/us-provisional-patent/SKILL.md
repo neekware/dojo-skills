@@ -210,8 +210,8 @@ Missing a maintenance fee deadline causes the patent to expire.
 - Consider consulting a patent attorney before the 12-month deadline, even if you filed the
   provisional yourself.
 
-> **Creator:** Ehaye
+> **Creator:** Dojo
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/us-provisional-patent`
+> **Source Repo:** `neekware/dojo-skills`
+> **Source Bucket:** `dojo`
+> **Original Path:** `dojo/us-provisional-patent`

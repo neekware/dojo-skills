@@ -67,6 +67,6 @@ Launch plans should be concrete, time-bound, and channel-specific — no vague "
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `marketing-skill`
 > **Original Path:** `marketing-skill/launch-strategy`

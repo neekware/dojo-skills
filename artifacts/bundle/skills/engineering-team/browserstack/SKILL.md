@@ -175,6 +175,6 @@ For testing localhost or staging behind firewall:
 
 > **Creator:** Engineering Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `engineering-team`
 > **Original Path:** `engineering-team/playwright-pro/skills/browserstack`

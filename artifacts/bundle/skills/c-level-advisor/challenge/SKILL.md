@@ -188,6 +188,6 @@ Unknown risks are dangerous. Known risks are manageable.
 
 > **Creator:** C Level Advisor
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `c-level-advisor`
 > **Original Path:** `c-level-advisor/executive-mentor/skills/challenge`

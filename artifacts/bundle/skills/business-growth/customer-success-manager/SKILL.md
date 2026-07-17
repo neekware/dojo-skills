@@ -211,6 +211,6 @@ python scripts/expansion_opportunity_scorer.py customer_data.json --format json
 
 > **Creator:** Alireza Rezvani
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `business-growth`
 > **Original Path:** `business-growth/customer-success-manager`

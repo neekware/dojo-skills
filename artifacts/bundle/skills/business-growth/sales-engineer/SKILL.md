@@ -235,6 +235,6 @@ python scripts/poc_planner.py poc_data.json --format json  # JSON output
 
 > **Creator:** Business Growth
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `business-growth`
 > **Original Path:** `business-growth/sales-engineer`

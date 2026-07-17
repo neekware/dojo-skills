@@ -326,6 +326,6 @@ Analyzes device against MDR requirements, identifies compliance gaps, generates 
 
 > **Creator:** Ra Qm Team
 > **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
+> **Source Repo:** `neekware/dojo-skills`
 > **Source Bucket:** `ra-qm-team`
 > **Original Path:** `ra-qm-team/mdr-745-specialist`

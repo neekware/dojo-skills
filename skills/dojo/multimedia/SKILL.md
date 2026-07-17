@@ -1,8 +1,16 @@
-# ehAye Multimedia
+---
+name: multimedia
+description: Dojo Multimedia — workflow for media inspection (ffprobe), conversion/remux (ffmpeg), preview, local transcription, Spotter visual search, thumbnails, and frame extraction.
+version: 1.1.0
+category: media
+tags: media, video, audio, image, preview, transcription, spotter, ffmpeg, ffprobe, probe, remux, mp4, mkv, subtitles
+---
+
+# Dojo Multimedia
 
 Use this skill for **video, audio, images, media inspection, conversion, previews, transcription, thumbnails, frame extraction, Spotter visual search, or FFmpeg/FFprobe-backed processing**.
 
-Core rule: use ehAye native media tools first. Do not reach first for shell `ffmpeg`, `ffprobe`, Python, or `mediainfo` when a native media tool can do the job. Native tools use the bundled engines, show proper tool UI, respect cancellation/timeouts, integrate with Preview/Spotter, honor path and permission guards, and avoid cross-platform shell quoting problems.
+Core rule: use Dojo native media tools first. Do not reach first for shell `ffmpeg`, `ffprobe`, Python, or `mediainfo` when a native media tool can do the job. Native tools use the bundled engines, show proper tool UI, respect cancellation/timeouts, integrate with Preview/Spotter, honor path and permission guards, and avoid cross-platform shell quoting problems.
 
 ## Pick the right tool
 
@@ -192,9 +200,3 @@ Always tell the user:
 - and when transcription accuracy must be checked.
 
 Prefer showing evidence through Preview over dumping long paths or raw media-engine output.
-
-> **Creator:** Ehaye
-> **License:** MIT
-> **Source Repo:** `neekware/ehaye-skills`
-> **Source Bucket:** `ehaye`
-> **Original Path:** `ehaye/multimedia`
