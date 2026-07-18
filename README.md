@@ -4,11 +4,11 @@
 
 # dojo-skills
 
-### Curated Skills for Dojo Dojo
+### Curated Skills for Dojo Workspace
 
 </div>
 
-Curated, validated skill repository for [Dojo Dojo](https://dojo.io).
+Curated, validated skill repository for [Dojo Workspace](https://github.com/neekware/DojoWorkspace).
 
 This repo is the **single source of truth** for skills consumed by DojoWorkspace. Rather than pulling
 from multiple upstream repos at runtime, we aggregate, validate, deduplicate, and prune skills here
